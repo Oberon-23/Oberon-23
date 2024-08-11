@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Breno(Oberon-23)!<br><br>Atualmente estou estudando para me tornar um desenvolvedor Front-end, tenho conhecimento em HTML, CSS e Javascript.<br>Estou a procura de um estágio na área.<br>Pronomes: Ele/Dele.
-
+Olá, me chamo Breno (Oberon-23)!<br><br>Atualmente estou estudando para me tornar um desenvolvedor Front-end, tenho conhecimento em HTML, CSS e Javascript.<br>Estou a procura de um estágio na área.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/breno.sbr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brenosilvarangel/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/imoberon) 
