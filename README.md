@@ -52,10 +52,12 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 **LinkedIn:**  
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenosilvarangel/)  
+<br />
 
 **E-mail:**
 <br />
 [![E-mail](https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:brenoosbr@outlook.com)  
+<br />
 
 **Instagram:**
 <br />
