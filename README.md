@@ -1,4 +1,6 @@
-![Bem-vindo](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8A2BE2&center=true&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
 ## 🔧 Tecnologias & Stacks  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
