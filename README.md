@@ -42,6 +42,16 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=800080)](https://vercel.com/oberon-23s-projects)  
 
+## 🔥 Projetos Principais  
+
+Aqui estão alguns dos meus principais projetos:  
+
+- 🎮 **[E-Play EBAC](https://github.com/Oberon-23/eplay-ebac)** – E-commerce de jogos digitais feito em ReactJS.  
+- 🌍 **[Projeto Site Responsivo](https://github.com/Oberon-23/projeto-site-responsivo)** – Site totalmente responsivo utilizando HTML, CSS e Flexbox/Grid.  
+- 📚 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing page com design moderno e responsivo.  
+
+📌 Veja todos os meus projetos [aqui](https://github.com/Oberon-23?tab=repositories).  
+
 ---
 
 ## 📬 Contatos  
