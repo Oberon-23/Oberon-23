@@ -40,7 +40,7 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 ## 🚀 Projetos  
 🔗 Confira meus projetos hospedados na **Vercel**:
 
-[![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)  
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=800080)](https://vercel.com/oberon-23s-projects)  
 
 ---
 
@@ -48,14 +48,13 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 <p>
   <a href="https://www.linkedin.com/in/brenosilvarangel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn">
   </a>
-  <br>
   <a href="mailto:brenoosbr@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Outlook&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Outlook&logoColor=800080" alt="E-mail">
   </a>
-  <br>
 </p>
+
 
 ---
 
