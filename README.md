@@ -42,9 +42,6 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)  
 
- Destaque:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oberon-23&repo=clone-disneyplus.github.io&theme=dark)](https://github.com/Oberon-23/clone-disneyplus.github.io)
-
 ---
 
 ## 📬 Contatos  
