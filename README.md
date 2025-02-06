@@ -48,7 +48,8 @@ Aqui estão alguns dos meus principais projetos:
 
 - 🎮 **[E-Play EBAC](https://github.com/Oberon-23/eplay-ebac)** – E-commerce de jogos digitais feito em ReactJS.  
 - 🌍 **[Projeto Site Responsivo](https://github.com/Oberon-23/projeto-site-responsivo)** – Site totalmente responsivo utilizando HTML, CSS e Flexbox/Grid.  
-- 📚 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing page com design moderno e responsivo.  
+- 📚 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing page com design moderno e responsivo.
+- 🕷️ **[Homem-Aranha Webpage](https://github.com/Oberon-23/spiderman-landing-page)** – Página inspirada no Homem-Aranha: Miles Morales, com design responsivo e interativo.  
 
 📌 Veja todos os meus projetos [aqui](https://github.com/Oberon-23?tab=repositories).  
 
