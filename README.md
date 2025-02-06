@@ -45,10 +45,6 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 ---
 ## 📬 Contatos  
 
- a {
-    text-decoration: none; /* Remove o sublinhado */
-    color: inherit; /* Mantém a cor do texto original */
-  }
 <p>
   <a href="https://www.linkedin.com/in/brenosilvarangel/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn">
@@ -59,7 +55,7 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
   <a href="https://www.instagram.com/breno.sbr/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=800080" alt="Instagram">
   </a>
-  </p>
+</p>
 
 
 ---
