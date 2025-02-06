@@ -61,7 +61,7 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 ### 🐍 Minha cobrinha animada!
 <p align="center">
-  <img src="https://github.com/Oberon-23/Oberon-23/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
