@@ -42,6 +42,8 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=800080)](https://vercel.com/oberon-23s-projects)  
 
+---
+
 ## 🔥 Projetos Principais  
 
 Aqui estão alguns dos meus principais projetos:  
