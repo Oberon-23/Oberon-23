@@ -58,9 +58,6 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
     <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=800080&backgroundColor=000000" alt="E-mail">
   </a>
   <br>
-  <a href="https://www.instagram.com/breno.sbr/">
-[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breno.sbr/)
-  </a>
 </p>
 ---
 
