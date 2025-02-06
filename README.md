@@ -49,17 +49,14 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 ## 📬 Contatos  
 📌 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenosilvarangel/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white&backgroundColor=000000)](https://www.linkedin.com/in/brenosilvarangel/)  
 
 📧 **E-mail:**  
-[![E-mail](https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:brenoosbr@outlook.com)  
+[![E-mail](https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=white&backgroundColor=000000)](mailto:brenoosbr@outlook.com)  
 
 📱 **Instagram:**  
-[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breno.sbr/)
+[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=Instagram&logoColor=white&backgroundColor=000000)](https://www.instagram.com/breno.sbr/)
 
-
-📌 **Portfólio e Deploys:**  
-🔗 **[Projetos na Vercel](https://vercel.com/oberon-23s-projects)**  
 
 ---
 
