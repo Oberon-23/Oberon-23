@@ -33,7 +33,7 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true)](https://github.com/Oberon-23/github-readme-stats)
 
 ### 🚀 Linguagens Mais Usadas  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
