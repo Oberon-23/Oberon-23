@@ -49,20 +49,20 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 ## 📬 Contatos  
 
-**LinkedIn:**  
-<br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenosilvarangel/)  
-<br />
+<p>
+  <a href="https://www.linkedin.com/in/brenosilvarangel/">
+    <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=800080&backgroundColor=000000" alt="LinkedIn">
+  </a>
+  <br>
+  <a href="mailto:brenoosbr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=800080&backgroundColor=000000" alt="E-mail">
+  </a>
+  <br>
+  <a href="https://www.instagram.com/breno.sbr/">
+    <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=Instagram&logoColor=800080&backgroundColor=000000" alt="Instagram">
+  </a>
+</p>
 
-**E-mail:**
-<br />
-[![E-mail](https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=Outlook&logoColor=white)](mailto:brenoosbr@outlook.com)  
-<br />
-
-**Instagram:**
-<br />
-
-[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/breno.sbr/)
 ---
 
 ### 🐍 Minha cobrinha animada!
