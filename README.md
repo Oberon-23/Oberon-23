@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8A2BE2&center=true&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <span style="color:#8A2BE2; animation: fadeIn 3s ease-in-out;">🚀 Bem-vindo ao meu GitHub!</span>
+</h1>
 ## 🔧 Tecnologias & Stacks  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
