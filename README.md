@@ -66,5 +66,5 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 ---
 
-💻 Sempre aberto para **novos desafios e colaborações**! 🚀  
+Sempre aberto para **novos desafios e colaborações**! 🚀  
 Seja bem-vindo ao meu GitHub! 😃  
