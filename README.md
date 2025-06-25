@@ -32,7 +32,7 @@
       <li>🔗 Consumo de APIs &amp; gerenciamento de estado.</li>
       <li>🐱‍👤 Noções de <strong>Node.js</strong> e SQL<./li>
     </ul>
-    <p>💡 Foco atual:
+    <p>💡 <h2>Foco atual:</h2>
     <li><strong>APIs REST e consumo com React.</strong></li>
     <li><strong>Testes com Cypress.</strong></li>
     <li><strong>Docker + GitHub.</strong></li>
