@@ -32,7 +32,7 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 🎯 Apaixonado por **tecnologia, aprendizado contínuo e boas práticas de código**.  
     </td>
     <td align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="Gif Breno Dev" />
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="Dev GIF animado" />
     </td>
   </tr>
 </table>
