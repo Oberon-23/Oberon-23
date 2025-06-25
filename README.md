@@ -38,7 +38,7 @@
     <li><strong>Docker + GitHub.</strong></li>
     <li>Integração com <strong>Postman + FastAPI</strong>.</li>
   </div>
-  
+  <br>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
        alt="Dev animado"
        width="220px">
