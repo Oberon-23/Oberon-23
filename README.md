@@ -18,6 +18,10 @@
 ---
 
 ## ✨ Sobre Mim  
+
+<table>
+  <tr>
+    <td width="60%">
 Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com formação pela **EBAC - Escola Britânica de Artes Criativas e Tecnologia e graduando em Análise e Desenvolvimento de Sistemas pela UNIGRAN EAD**. Tenho um perfil organizado e analítico, com facilidade para aprender e resolver problemas.
 **Tenho experiência na criação de websites responsivos, visando também a experiência do usuário**. Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
  - **Desenvolvimento de interfaces modernas e responsivas com HTML, CSS, Javascript e seus frameworks**.
@@ -26,6 +30,12 @@ Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com forma�
 
 💡 Foco em **Front-end, UI/UX Design e Desenvolvimento Web**.   
 🎯 Apaixonado por **tecnologia, aprendizado contínuo e boas práticas de código**.  
+    </td>
+    <td align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="Gif Breno Dev" />
+    </td>
+  </tr>
+</table>
 
 ---
 
