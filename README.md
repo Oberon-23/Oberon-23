@@ -27,12 +27,17 @@
     Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamnete e buscar soluções tecnológicas inovadoras.
     </p>
     <ul>
-      <li>⚛ Desenvolvimento com <strong>React / TypeScript</strong></li>
-      <li>🎨 Design responsivo com <strong>HTML + Sass + Styled Components</strong></li>
-      <li>🔗 Consumo de APIs &amp; gerenciamento de estado</li>
-      <li>🐱‍👤 Noções de <strong>Node.js</strong> e SQL</li>
+      <li>⚛ Desenvolvimento com <strong>React / TypeScript</strong>.</li>
+      <li>🎨 Design responsivo com <strong>HTML + Sass + Styled Components.</strong>.</li>
+      <li>🔗 Consumo de APIs &amp; gerenciamento de estado.</li>
+      <li>🐱‍👤 Noções de <strong>Node.js</strong> e SQL<./li>
     </ul>
-    <p>💡 Foco atual: UI/UX, Docker, testes (Jest + Cypress).</p>
+    <p>💡 Foco atual:
+    <li><strong>APIs REST e consumo com React.</strong></li>
+    <li><strong>Testes com Cypress.</strong></li>
+    <li><strong>Docker + GitHub.</strong></li>
+    <li>Integração com <strong>Postman + FastAPI</strong>.</li>
+    </p>
   </div>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
