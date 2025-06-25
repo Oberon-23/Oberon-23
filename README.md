@@ -17,15 +17,15 @@
 
 ---
 
-## ✨ Sobre Mim  
-
 <h2>✨ Sobre Mim</h2>
 
 <div style="display:flex; align-items:center; gap:24px;">
-  <!-- Coluna de texto -->
+  
   <div style="max-width:60%;">
-    <p>Olá! 👋 Sou <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado
-    pela <strong>EBAC</strong> e graduando em ADS (UNIGRAN).</p>
+    <p>Olá! 👋 Me chamo <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado
+    pela <strong>EBAC - Escola Britânica de Artes Criativas e Tecnologia</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas pela</strong> <strong>UNIGRAN EAD</strong>.
+    Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamnete e buscar soluções tecnológicas inovadoras.
+    </p>
     <ul>
       <li>⚛ Desenvolvimento com <strong>React / TypeScript</strong></li>
       <li>🎨 Design responsivo com <strong>HTML + Sass + Styled Components</strong></li>
@@ -34,8 +34,7 @@
     </ul>
     <p>💡 Foco atual: UI/UX, Docker, testes (Jest + Cypress).</p>
   </div>
-
-  <!-- Coluna do GIF -->
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
        alt="Dev animado"
        width="220px">
