@@ -19,23 +19,27 @@
 
 ## ✨ Sobre Mim  
 
-<table>
-  <tr>
-    <td width="60%">
-Olá! 👋 Sou **Breno Silva Barros Rangel**, desenvolvedor Front-End com formação pela **EBAC - Escola Britânica de Artes Criativas e Tecnologia e graduando em Análise e Desenvolvimento de Sistemas pela UNIGRAN EAD**. Tenho um perfil organizado e analítico, com facilidade para aprender e resolver problemas.
-**Tenho experiência na criação de websites responsivos, visando também a experiência do usuário**. Estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
- - **Desenvolvimento de interfaces modernas e responsivas com HTML, CSS, Javascript e seus frameworks**.
- - **Uso de React.Js para construção de aplicações interativas**.
- - **Noções de desenvolvimento back-end com Node.Js e integração com banco de dados SQL**.
+<h2>✨ Sobre Mim</h2>
 
-💡 Foco em **Front-end, UI/UX Design e Desenvolvimento Web**.   
-🎯 Apaixonado por **tecnologia, aprendizado contínuo e boas práticas de código**.  
-    </td>
-    <td align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220px" alt="Dev GIF animado" />
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center; gap:24px;">
+  <!-- Coluna de texto -->
+  <div style="max-width:60%;">
+    <p>Olá! 👋 Sou <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado
+    pela <strong>EBAC</strong> e graduando em ADS (UNIGRAN).</p>
+    <ul>
+      <li>⚛ Desenvolvimento com <strong>React / TypeScript</strong></li>
+      <li>🎨 Design responsivo com <strong>HTML + Sass + Styled Components</strong></li>
+      <li>🔗 Consumo de APIs &amp; gerenciamento de estado</li>
+      <li>🐱‍👤 Noções de <strong>Node.js</strong> e SQL</li>
+    </ul>
+    <p>💡 Foco atual: UI/UX, Docker, testes (Jest + Cypress).</p>
+  </div>
+
+  <!-- Coluna do GIF -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+       alt="Dev animado"
+       width="220px">
+</div>
 
 ---
 
