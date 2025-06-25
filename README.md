@@ -32,7 +32,7 @@
       <li>🔗 Consumo de APIs &amp; gerenciamento de estado.</li>
       <li>🐱‍👤 Noções de <strong>Node.js</strong> e SQL<./li>
     </ul>
-      ---
+    <br>
     <p>
       <h3>💡 Foco atual nos estudos:</h3>
     <li><strong>APIs REST e consumo com React.</strong></li>
