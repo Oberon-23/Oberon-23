@@ -36,7 +36,6 @@
   </tr>
 </table>
       <h2>💡 Foco atual nos estudos</h2>
-      <table>
       <ul>
         <li>APIs REST com React</li>
         <li>Testes com Cypress</li>
@@ -44,10 +43,9 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
-        <td valign="top" align="center">
-      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
-    </td>
-      </table>
+        <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Keep+going" alt="Typing SVG - Keep going" />
+</p>
     
 ---
 
