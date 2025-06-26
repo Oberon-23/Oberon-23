@@ -24,10 +24,10 @@
     pela <strong>EBAC</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>.
     Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.</p>
     <ul>
-      <li>⚛ Desenvolvimento com <strong>React + TypeScript</strong></li>
-      <li>🎨 Design responsivo com <strong>HTML, CSS, Sass e Styled Components</strong></li>
-      <li>🔗 Consumo de <strong>APIs</strong> e gerenciamento de estado</li>
-      <li>🐱‍👤 Noções de back-end com <strong>Node.js</strong> e <strong>SQL</strong></li>
+      <li>Desenvolvimento com <strong>React + TypeScript</strong></li>
+      <li>Design responsivo com <strong>HTML, CSS, Sass e Styled Components</strong></li>
+      <li>Consumo de <strong>APIs</strong> e gerenciamento de estado</li>
+      <li>Noções de back-end com <strong>Node.js</strong> e <strong>SQL</strong></li>
     </ul>
     <h3>💡 Foco atual nos estudos:</h3>
     <ul>
