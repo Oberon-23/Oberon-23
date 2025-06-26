@@ -21,7 +21,7 @@
 <div style="display:flex; align-items:center; gap:24px; flex-wrap:wrap;">
   <div style="flex:1; min-width:250px;">
     <p>Olá! 👋 Me chamo <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado
-    pela <strong>EBAC</strong> e graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>.
+    pela <strong>EBAC</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>.
     Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.</p>
     <ul>
       <li>⚛ Desenvolvimento com <strong>React + TypeScript</strong></li>
@@ -63,6 +63,7 @@
 
 ## 🚀 Projetos  
 🔗 Veja meus projetos na **Vercel:**  
+
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=800080)](https://vercel.com/oberon-23s-projects)
 
 ---
