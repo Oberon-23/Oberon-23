@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-     <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
+    <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
@@ -45,15 +45,16 @@
     <li>Integração Postman + FastAPI</li>
     <li>UI/UX e acessibilidade web</li>
   </ul>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26¢er=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" style="display: block; margin: 10px auto 0 auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" style="display: block; margin: 10px auto 0 auto;">
 </div>
 
 ---
 
-## 📚 Certificações
-- 🎓 Engenheiro Front-End <strong>(EBAC)</strong>.
-- 🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN)</strong>.
-
+<h2 style="margin-top: 10px;">📚 Certificações</h2>
+<ul>
+  <li>🎓 Engenheiro Front-End <strong>(EBAC)</strong>.</li>
+  <li>🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN)</strong>.</li>
+</ul>
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
