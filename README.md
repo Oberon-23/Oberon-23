@@ -29,7 +29,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;"> <h3>💡 Foco atual nos estudos:</h3>
+  <div style="flex: 1; min-width: 180px;"> <h3>💡 Foco atual nos estudos:</h3>
     <ul>
       <li><strong>APIs REST</strong> com <strong>React</strong></li>
       <li>Testes com <strong>Cypress</strong></li>
@@ -39,7 +39,7 @@
     </ul>
   </div>
   <div style="width: auto; text-align: center; flex-shrink: 0;">
-    <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="max-width: 280px; height: auto; border-radius: 8px;">
+    <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="max-width: 250px; height: auto; border-radius: 8px;">
     </div>
 </div>
 
