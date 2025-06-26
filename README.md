@@ -87,17 +87,6 @@
       />
     </td>
   </tr>
-
-  <!-- Linha 3 – Trophies -->
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=Oberon-23&theme=radical&column=6&margin-w=10&no-bg=true&no-frame=true"
-        style="width: 100%; max-width: 960px; height: auto;"
-        alt="Troféus do GitHub"
-      />
-    </td>
-  </tr>
 </table>
 
 ---
