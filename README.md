@@ -40,21 +40,13 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
   <ul>
-
     <li>APIs REST com React</li>
-
     <li>Testes com Cypress</li>
-
     <li>Docker + GitHub Actions</li>
-
     <li>Integração Postman + FastAPI</li>
-
     <li>UI/UX e acessibilidade web</li>
-
   </ul>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26¢er=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" style="display: block; margin: 10px auto 0 auto;">
-
 </div>
 
 ---
