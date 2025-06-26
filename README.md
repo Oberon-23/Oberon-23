@@ -36,6 +36,7 @@
   </tr>
 </table>
       <h2>💡 Foco atual nos estudos</h2>
+      <table>
       <ul>
         <li>APIs REST com React</li>
         <li>Testes com Cypress</li>
@@ -43,7 +44,7 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
-    </td>
+      </table>
     
 ---
 
