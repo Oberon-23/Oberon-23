@@ -30,7 +30,12 @@
         <li>Consumo de APIs e gerenciamento de estado</li>
         <li>Noções de back-end com Node.js e SQL</li>
       </ul>
-      <h3>💡 Foco atual nos estudos:</h3>
+    <td valign="top" align="center">
+      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
+    </td>
+  </tr>
+</table>
+      <h2>💡 Foco atual nos estudos:</h2>
       <ul>
         <li>APIs REST com React</li>
         <li>Testes com Cypress</li>
@@ -39,12 +44,6 @@
         <li>UI/UX e acessibilidade web</li>
       </ul>
     </td>
-    <td valign="top" align="center">
-      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📚 Certificações
