@@ -36,7 +36,7 @@
       <li><strong>UI/UX</strong> e acessibilidade web</li>
     </ul>
   </div>
-  <div style="text-align: right;">
+  <div style="text-align: center;">
     <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 </div>
