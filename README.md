@@ -35,7 +35,7 @@
         <hr>
       <h2>💡 Foco atual nos estudos:</h2>
     <li><strong>APIs REST</strong> e consumo com <strong>React</strong>.</li>
-    <li><Testes com <strong>Cypress</strong>.</li>
+    <li>Testes com <strong>Cypress</strong>.</li>
     <li><strong>Docker</strong> + <strong>GitHub</strong>.</li>
     <li>Integração com <strong>Postman + FastAPI</strong>.</li>
   </div>
