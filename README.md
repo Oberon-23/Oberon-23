@@ -38,7 +38,7 @@
   ---
   
 </table>
-      <h2>💡 Foco atual nos estudos:</h2>
+      <h2>💡 Foco atual nos estudos</h2>
       <ul>
         <li>APIs REST com React</li>
         <li>Testes com Cypress</li>
