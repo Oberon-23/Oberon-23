@@ -42,11 +42,11 @@
   <!-- Linha 2 – Streak Stats (corrigido) -->
   <tr>
     <td colspan="2" align="center">
-      <img
-        src="https://github-readme-streak-stats.vercel.app?user=Oberon-23&theme=dark&hide_border=true&background=1A1A1A&ring=EC7C26&currStreakNum=EC7C26&currStreakLabel=A35B2C"
-        style="width: 800px; max-width: 100%; height: auto;"
-        alt="Dias seguidos de contribuição"
-      />
+     <img
+  src="https://github-readme-streak-stats.vercel.app?user=Oberon-23&theme=dark&hide_border=true&background=1A1A1A&ring=EC7C26&currStreakNum=EC7C26&currStreakLabel=A35B2C"
+  alt="Streak"
+  style="width: 800px; max-width: 100%; height: auto;"
+/>
     </td>
   </tr>
 </table>
