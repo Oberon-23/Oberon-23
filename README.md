@@ -113,18 +113,25 @@
 
 ## 📬 Contatos
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-top: 8px;">
-  <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:brenoosbr@outlook.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/breno.sbr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:brenoosbr@outlook.com">
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/breno.sbr/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
