@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
-## 🔧 Tecnologias & Stacks  
+<h2 align="center">🔧 Tecnologias & Stacks</h2>  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />  
@@ -126,7 +126,7 @@
 
 ---
 
-## 🐍 Snake.io
+## <h2 align="center">🐍 Snake.io</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
