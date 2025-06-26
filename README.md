@@ -64,9 +64,12 @@
 ---
 
 ## 🚀 Projetos  
-🔗 Veja meus projetos na **Vercel:**  
+🔗 Confira meus projetos hospedados na **Vercel**:
 
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=800080)](https://vercel.com/oberon-23s-projects)
+<a href="https://vercel.com/oberon-23s-projects">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white" alt="Vercel">
+</a>
+
 
 ---
 
@@ -84,15 +87,20 @@
 
 <p>
   <a href="https://www.linkedin.com/in/brenosilvarangel/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:brenoosbr@outlook.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/breno.sbr/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+<p>
+  <a href="mailto:brenoosbr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logoColor=white" alt="Email">
+  </a>
+</p>
+<p>
+  <a href="https://www.instagram.com/breno.sbr/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
 
 
 
