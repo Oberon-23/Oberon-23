@@ -48,6 +48,7 @@
   </tr>
 </table>
 
+
 ---
 
 ## 📚 Certificações
