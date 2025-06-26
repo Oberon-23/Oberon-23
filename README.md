@@ -53,6 +53,7 @@
 <li>Engenheiro Front-End - <strong>EBAC</strong>.</li>
 <li>Análise e Desenvolvimento de Sistemas - <strong>UNIGRAN EAD</strong>.</li>
 </div>
+
 ---
 
 ## 📊 GitHub Stats  
