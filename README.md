@@ -18,7 +18,7 @@
 
 <h2>✨ Sobre Mim</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <p>Olá! 👋 Me chamo <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado pela <strong>EBAC</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>. Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.</p>
     <ul>
@@ -36,7 +36,7 @@
       <li><strong>UI/UX</strong> e acessibilidade web</li>
     </ul>
   </div>
-  <div style="text-align: center;">
+  <div style="width: auto; text-align: center; flex-shrink: 0;">
     <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 </div>
