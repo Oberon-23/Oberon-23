@@ -18,30 +18,33 @@
 
 <h2>✨ Sobre Mim</h2>
 
-<div style="margin-bottom: 20px;">
-  <p>Olá! 👋 Me chamo <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado pela <strong>EBAC</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>. Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.</p>
-  <ul>
-    <li>Desenvolvimento com <strong>React + TypeScript</strong></li>
-    <li>Design responsivo com <strong>HTML, CSS, Sass e Styled Components</strong></li>
-    <li>Consumo de <strong>APIs</strong> e gerenciamento de estado</li>
-    <li>Noções de back-end com <strong>Node.js</strong> e <strong>SQL</strong></li>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 180px;"> <h3>💡 Foco atual nos estudos:</h3>
-    <ul>
-      <li><strong>APIs REST</strong> com <strong>React</strong></li>
-      <li>Testes com <strong>Cypress</strong></li>
-      <li><strong>Docker</strong> + <strong>GitHub Actions</strong></li>
-      <li>Integração <strong>Postman + FastAPI</strong></li>
-      <li><strong>UI/UX</strong> e acessibilidade web</li>
-    </ul>
-  </div>
-  <div style="width: auto; text-align: center; flex-shrink: 0;">
-    <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="width: 250px; height: auto; border-radius: 8px;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <h2>✨ Sobre Mim</h2>
+      <p>
+        Olá! 👋 Me chamo Breno Silva Barros Rangel, desenvolvedor Front-End formado pela EBAC e graduado em Análise e Desenvolvimento de Sistemas pela UNIGRAN EAD. Tenho como objetivo crescer na área de Desenvolvimento Web, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.
+      </p>
+      <ul>
+        <li>Desenvolvimento com React + TypeScript</li>
+        <li>Design responsivo com HTML, CSS, Sass e Styled Components</li>
+        <li>Consumo de APIs e gerenciamento de estado</li>
+        <li>Noções de back-end com Node.js e SQL</li>
+      </ul>
+      <h3>💡 Foco atual nos estudos:</h3>
+      <ul>
+        <li>APIs REST com React</li>
+        <li>Testes com Cypress</li>
+        <li>Docker + GitHub Actions</li>
+        <li>Integração Postman + FastAPI</li>
+        <li>UI/UX e acessibilidade web</li>
+      </ul>
+    </td>
+    <td valign="top" align="center">
+      <br><br> <img src="gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
+    </td>
+  </tr>
+</table>
 
 ---
 
