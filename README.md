@@ -60,7 +60,7 @@
 
 <table align="center">
   <!-- Linha 1 – Stats gerais + Top Languages -->
- <tr>
+  <tr>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=EC7C26&text_color=A35B2C&icon_color=EC7C26&bg_color=1A1A1A&hide_border=true&rank_icon=github"
