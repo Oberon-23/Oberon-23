@@ -80,10 +80,19 @@
 
 ---
 
-## 📬 Contatos  
-<a href="https://www.linkedin.com/in/brenosilvarangel/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn"/></a>  
-<a href="mailto:brenoosbr@outlook.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=outlook&logoColor=800080" alt="Email"/></a>  
-<a href="https://www.instagram.com/breno.sbr/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=800080" alt="Instagram"/></a>
+## 📬 Contatos
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brenosilvarangel/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=800080" alt="LinkedIn">
+  </a>
+  <a href="mailto:brenoosbr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=outlook&logoColor=800080" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/breno.sbr/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logoColor=800080" alt="Instagram">
+  </a>
+</div>
 
 ---
 
