@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td style="text-align: center; padding-left: 20px;">
-      <img src="./assets/gifs/gato-legal"
+      <img src="./assets/gifs/gato-legal.webp"
            alt="Foco nos estudos"
            width="220px"
            style="border-radius:8px" />
