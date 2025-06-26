@@ -61,18 +61,16 @@
 <table>
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&width=400&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
-        style="width: 400px; height: auto;"
-        alt="GitHub Stats"
-      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true" 
+        style="width:400px; height:auto;" 
+        alt="GitHub Stats" />
     </td>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&width=400&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
-        style="width: 400px; height: auto;"
-        alt="Top Languages"
-      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true" 
+        style="width:400px; height:auto;" 
+        alt="Top Languages" />
     </td>
   </tr>
 </table>
