@@ -56,27 +56,49 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table>
+<table align="center">
+  <!-- Linha 1 – Stats gerais + Top Languages -->
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&width=400&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
         style="width: 400px; height: auto;"
-        alt="GitHub Stats"
+        alt="Estatísticas gerais do GitHub"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&width=400&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=800080&text_color=800080&bg_color=000000&hide_border=true"
         style="width: 400px; height: auto;"
-        alt="Top Languages"
+        alt="Linguagens mais usadas"
+      />
+    </td>
+  </tr>
+
+  <!-- Linha 2 – Streak Stats -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=Oberon-23&theme=dark&hide_border=true&background=000000&ring=800080&currStreakNum=800080&currStreakLabel=800080"
+        style="width: 800px; max-width: 100%; height: auto;"
+        alt="Dias seguidos de contribuição"
+      />
+    </td>
+  </tr>
+
+  <!-- Linha 3 – Trophies -->
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=Oberon-23&theme=radical&column=6&margin-w=10&no-bg=true&no-frame=true"
+        style="width: 100%; max-width: 960px; height: auto;"
+        alt="Troféus do GitHub"
       />
     </td>
   </tr>
 </table>
-
 
 ---
 
