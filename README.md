@@ -18,27 +18,36 @@
 
 <h2>✨ Sobre Mim</h2>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table align="center">
-  <!-- Linha 1 – Stats gerais + Top Languages -->
+<table>
   <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=EC7C26&text_color=A35B2C&icon_color=EC7C26&bg_color=1A1A1A&hide_border=true&rank_icon=github"
-        style="width: 400px; height: auto;"
-        alt="Estatísticas gerais do GitHub"
-      />
+    <td style="vertical-align: top; min-width: 300px;">
+      <p>Olá! 👋 Me chamo <strong>Breno Silva Barros Rangel</strong>, desenvolvedor Front-End formado
+      pela <strong>EBAC</strong> e graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIGRAN EAD</strong>.
+      Tenho como objetivo crescer na área de <strong>Desenvolvimento Web</strong>, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.</p>
+      <ul>
+        <li>Desenvolvimento com <strong>React + TypeScript</strong></li>
+        <li>Design responsivo com <strong>HTML, CSS, Sass e Styled Components</strong></li>
+        <li>Consumo de <strong>APIs</strong> e gerenciamento de estado</li>
+        <li>Noções de back-end com <strong>Node.js</strong> e <strong>SQL</strong></li>
+      </ul>
+      <h3>💡 Foco atual nos estudos:</h3>
+      <ul>
+        <li><strong>APIs REST</strong> com <strong>React</strong></li>
+        <li>Testes com <strong>Cypress</strong></li>
+        <li><strong>Docker</strong> + <strong>GitHub Actions</strong></li>
+        <li>Integração <strong>Postman + FastAPI</strong></li>
+        <li><strong>UI/UX</strong> e acessibilidade web</strong></li>
+      </ul>
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true"
-        style="width: 400px; height: auto;"
-        alt="Linguagens mais usadas"
-      />
+    <td style="text-align: center; padding-left: 20px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhweG5kZ2tsdXd5MzV4d29yaWU3MGlpOGF4OWphNW1ldmVwMWx1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+           alt="Foco nos estudos"
+           width="220px"
+           style="border-radius:8px" />
     </td>
   </tr>
 </table>
+
 
 
 ---
