@@ -35,6 +35,9 @@
     </td>
   </tr>
 </table>
+
+---
+
   <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
