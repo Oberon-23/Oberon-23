@@ -85,21 +85,18 @@
 
 ## 📬 Contatos
 
-<p>
   <a href="https://www.linkedin.com/in/brenosilvarangel/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-<p>
+
   <a href="mailto:brenoosbr@outlook.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logoColor=white" alt="Email">
   </a>
-</p>
-<p>
+  
   <a href="https://www.instagram.com/breno.sbr/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logoColor=white" alt="Instagram">
   </a>
-</p>
+
 
 
 
