@@ -44,6 +44,9 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
+        <td valign="top" align="center">
+      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
+    </td>
       </table>
     
 ---
