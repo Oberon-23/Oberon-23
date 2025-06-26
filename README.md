@@ -43,8 +43,8 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
-        <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Keep+going" alt="Typing SVG - Keep going" />
+        <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Keep+studying!" alt="Typing SVG - Keep studying!" />
 </p>
     
 ---
