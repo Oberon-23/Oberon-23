@@ -42,7 +42,7 @@
     <td style="text-align: center; padding-left: 20px;">
       <img src="./assets/gifs/gato-legal.webp"
            alt="Foco nos estudos"
-           width="220px"
+           width="600px"
            style="border-radius:8px" />
     </td>
   </tr>
