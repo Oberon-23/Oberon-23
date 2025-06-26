@@ -60,17 +60,17 @@
 
 <table align="center">
   <!-- Linha 1 – Stats gerais + Top Languages -->
-  <tr>
+ <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=800080&text_color=800080&icon_color=800080&bg_color=000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=EC7C26&text_color=A35B2C&icon_color=EC7C26&bg_color=1A1A1A&hide_border=true&rank_icon=github"
         style="width: 400px; height: auto;"
         alt="Estatísticas gerais do GitHub"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=800080&text_color=800080&bg_color=000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true"
         style="width: 400px; height: auto;"
         alt="Linguagens mais usadas"
       />
@@ -81,7 +81,7 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://streak-stats.demolab.com?user=Oberon-23&theme=dark&hide_border=true&background=000000&ring=800080&currStreakNum=800080&currStreakLabel=800080"
+        src="https://streak-stats.demolab.com?user=Oberon-23&theme=dark&hide_border=true&background=1A1A1A&ring=EC7C26&currStreakNum=EC7C26&currStreakLabel=A35B2C"
         style="width: 800px; max-width: 100%; height: auto;"
         alt="Dias seguidos de contribuição"
       />
