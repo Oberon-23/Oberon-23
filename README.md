@@ -31,9 +31,12 @@
         <li>Noções de back-end com Node.js e SQL</li>
       </ul>
     <td valign="top" align="center">
-      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
+      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
     </td>
   </tr>
+  
+  ---
+  
 </table>
       <h2>💡 Foco atual nos estudos:</h2>
       <ul>
@@ -44,6 +47,7 @@
         <li>UI/UX e acessibilidade web</li>
       </ul>
     </td>
+    
 ---
 
 ## 📚 Certificações
