@@ -37,7 +37,7 @@
     </ul>
   </div>
   <div style="width: auto; text-align: center; flex-shrink: 0;">
-    <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="max-width: 250px; height: auto; border-radius: 8px;">
+    <img src="./assets/gifs/gato-legal.webp" alt="Foco nos estudos" style="width: 250px; height: auto; border-radius: 8px;">
     </div>
 </div>
 
