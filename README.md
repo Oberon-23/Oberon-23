@@ -26,16 +26,16 @@
     <ul>
       <li>⚛ Desenvolvimento com <strong>React + TypeScript</strong></li>
       <li>🎨 Design responsivo com <strong>HTML, CSS, Sass e Styled Components</strong></li>
-      <li>🔗 Consumo de APIs e gerenciamento de estado</li>
-      <li>🐱‍👤 Noções de back-end com <strong>Node.js</strong> e SQL</li>
+      <li>🔗 Consumo de <strong>APIs</strong> e gerenciamento de estado</li>
+      <li>🐱‍👤 Noções de back-end com <strong>Node.js</strong> e <strong>SQL</strong></li>
     </ul>
     <h3>💡 Foco atual nos estudos:</h3>
     <ul>
-      <li><strong>APIs REST</strong> com React</li>
-      <li>Testes com <strong>Cypress</strong></li>
-      <li><strong>Docker</strong> + <strong>GitHub Actions</strong></li>
-      <li>Integração <strong>Postman + FastAPI</strong></li>
-      <li>UI/UX e acessibilidade web</li>
+      <li><strong>APIs REST</strong> com <strong>React</strong>.</li>
+      <li>Testes com <strong>Cypress</strong>.</li>
+      <li><strong>Docker</strong> + <strong>GitHub Actions</strong>.</li>
+      <li>Integração <strong>Postman + FastAPI</strong>.</li>
+      <li><strong>UI/UX</strong> e acessibilidade web.</li>
     </ul>
   </div>
 
@@ -48,8 +48,8 @@
 ---
 
 ## 📚 Certificações
-- 🎓 Engenheiro Front-End – EBAC  
-- 🎓 ADS – UNIGRAN EAD (em andamento)
+- 🎓 Engenheiro Front-End <strong>(EBAC)</strong>.
+- 🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN)</strong>.
 
 ---
 
@@ -71,7 +71,8 @@
 - 🎮 **[E-Play EBAC](https://github.com/Oberon-23/eplay-ebac)** – E‑commerce de jogos com ReactJS  
 - 🌐 **[Projeto Site Responsivo](https://github.com/Oberon-23/projeto-site-responsivo)** – Site 100% responsivo com HTML/CSS Grid & Flexbox  
 - 📺 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing com design moderno e responsivo  
-- 🕷️ **[Homem-Aranha Webpage](https://github.com/Oberon-23/spiderman-landing-page)** – Página temática inspirada no Miles Morales  
+- 🕷️ **[Homem-Aranha Webpage](https://github.com/Oberon-23/spiderman-landing-page)** – Página temática inspirada no Miles Morales
+  
 📌 Veja todos os projetos [aqui](https://github.com/Oberon-23?tab=repositories).
 
 ---
