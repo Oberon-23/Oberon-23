@@ -77,7 +77,7 @@
     </td>
   </tr>
 </table>
-
+<hr>
 ---
 
 ## 🚀 Projetos  
