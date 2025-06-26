@@ -35,23 +35,18 @@
     </td>
   </tr>
 </table>
-     <h2>💡 Foco atual nos estudos</h2>
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>APIs REST com React</li>
-        <li>Testes com Cypress</li>
-        <li>Docker + GitHub Actions</li>
-        <li>Integração Postman + FastAPI</li>
-        <li>UI/UX e acessibilidade web</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" />
-    </td>
-  </tr>
-</table>
+     <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <ul>
+    <li>APIs REST com React</li>
+    <li>Testes com Cypress</li>
+    <li>Docker + GitHub Actions</li>
+    <li>Integração Postman + FastAPI</li>
+    <li>UI/UX e acessibilidade web</li>
+  </ul>
+  <img src="https://readme-typing-svg.herokuapp.com/demo/typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" style="margin-left: 20px; margin-top: 10px;">
+</div>
     
 ---
 
