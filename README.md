@@ -35,7 +35,10 @@
     </td>
   </tr>
 </table>
-      <h2>💡 Foco atual nos estudos</h2>
+     <h2>💡 Foco atual nos estudos</h2>
+<table>
+  <tr>
+    <td valign="top">
       <ul>
         <li>APIs REST com React</li>
         <li>Testes com Cypress</li>
@@ -43,11 +46,12 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
-      <ul>
-        <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Keep+studying!" alt="Typing SVG - Keep studying!" />
-      </ul>
-</p>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" />
+    </td>
+  </tr>
+</table>
     
 ---
 
