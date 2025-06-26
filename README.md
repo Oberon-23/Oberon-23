@@ -30,6 +30,9 @@
         <li>Consumo de APIs e gerenciamento de estado</li>
         <li>Noções de back-end com Node.js e SQL</li>
       </ul>
+    <td valign="top" align="center">
+      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
+    </td>
   </tr>
   
   ---
@@ -43,9 +46,6 @@
         <li>Integração Postman + FastAPI</li>
         <li>UI/UX e acessibilidade web</li>
       </ul>
-    <td valign="top" align="center">
-      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
-    </td>
     </td>
     
 ---
