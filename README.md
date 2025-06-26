@@ -39,10 +39,12 @@
     </ul>
   </div>
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-       alt="Dev animado focado nos estudos"
-       width="220px"
-       style="border-radius:8px"/>
+ <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhweG5kZ2tsdXd5MzV4d29yaWU3MGlpOGF4OWphNW1ldmVwMWx1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+         alt="Foco nos estudos"
+         width="220px"
+         style="border-radius:8px" />
+  </div>
 </div>
 
 ---
