@@ -21,7 +21,6 @@
 <table>
   <tr>
     <td valign="top">
-      <h2>✨ Sobre Mim</h2>
       <p>
         Olá! 👋 Me chamo Breno Silva Barros Rangel, desenvolvedor Front-End formado pela EBAC e graduado em Análise e Desenvolvimento de Sistemas pela UNIGRAN EAD. Tenho como objetivo crescer na área de Desenvolvimento Web, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.
       </p>
@@ -41,7 +40,7 @@
       </ul>
     </td>
     <td valign="top" align="center">
-      <br><br> <img src="gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
+      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="300px">
     </td>
   </tr>
 </table>
