@@ -73,7 +73,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" />
   <img src="https://github.com/user-attachments/assets/f8fb90e2-f8b9-48e7-9941-26f5e8c393f8" width="50px" />
-
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="50px" />
 </p>
 
 ---
