@@ -33,7 +33,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
     <li>Análise de Dados (Em aprendizado): Power BI, Excel, Python, Pandas, ETL, SQL</li>
-    <li>Front-End(Base): HTML, CSS, JavaScript, React.js, TypeScript</li>
+    <li>Front-End(Base): HTML, CSS, JavaScript, React.js, TypeScript, Node.js</li>
     <li>Ferramentas: GitHub, Figma, N8N</li>
   </ul>
 </div>
