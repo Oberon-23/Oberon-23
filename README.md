@@ -40,7 +40,6 @@ Habilidades Técnicas:
 
 ---
 
-<br/>
 
 ## 📚 Certificações
 
