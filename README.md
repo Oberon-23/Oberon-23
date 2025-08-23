@@ -38,9 +38,8 @@ Habilidades Técnicas:
   </ul>
 </div>
 <br/>
-
 ---
-
+<br/>
 ## 📚 Certificações
 
 - 🎓 Engenheiro Front-End <strong>(EBAC)</strong>.
