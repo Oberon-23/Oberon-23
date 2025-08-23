@@ -10,14 +10,14 @@
 <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="400px" align="right">
 
 ---
-
+<!-- Sobre mim -->
 <p align="left"> 
 Engenheiro de Software com foco em Front-End. <br/>
 Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
 </p>
 
 ---
-
+<!-- Estudos -->
 ### Estudos focado em: 
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -27,7 +27,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
     <li>Visualização de dashboards com Power BI e Excel</li>
   </ul>
 </div>
-
+<!-- Habilidades Técnicas -->
 ### Habilidades Técnicas:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -39,8 +39,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 </div>
 
 ---
-
-
+<!-- Certificações -->
 ### Certificações
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right"/>
@@ -52,6 +51,20 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 - 🎓 Curso Análise e Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
 
 ---
+
+### Tecnologias & Stacks 
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />  
+</p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -98,17 +111,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 
-<h2 align="center">🔧 Tecnologias & Stacks</h2>  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />  
-</p>
+
 
 ## 📬 Contatos
 
