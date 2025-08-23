@@ -14,8 +14,7 @@ Engenheiro de Software com foco em Front-End. <br/>
 Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
 </p>
 
---- 
-  <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
+## 💡 Foco atual nos estudos
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
@@ -25,9 +24,10 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
     <li>Integração Postman + FastAPI</li>
     <li>UI/UX e acessibilidade web</li>
   </ul>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" style="display: block; margin: 10px auto 0 auto;" align="right">
 </div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" />
+</p>
 ---
 
 ## 📚 Certificações
