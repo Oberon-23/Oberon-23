@@ -116,9 +116,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 ### GitHub Stats
 
 <p align="center">
-  <!-- Nome centralizado -->
-  <h2 style="color:#EC7C26;">Oberon-23</h2>
-
+  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhomarcia&layout=compact&theme=dark&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26"/>
 
