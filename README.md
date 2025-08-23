@@ -7,30 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
+<img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px" align="right">
 
----
-
-<h2>✨ Sobre Mim</h2>
-
-<table>
-  <tr>
-    <td valign="top">
-      <p>
-        Olá! 👋 Me chamo Breno Silva Barros Rangel, desenvolvedor Front-End formado pela EBAC e graduado em Análise e Desenvolvimento de Sistemas pela UNIGRAN EAD. Tenho como objetivo crescer na área de Desenvolvimento Web, me dedicando a aprender continuamente e buscar soluções tecnológicas inovadoras.
-      </p>
-      <ul>
-        <li>Desenvolvimento com React + TypeScript</li>
-        <li>Design responsivo com HTML, CSS, Sass e Styled Components</li>
-        <li>Consumo de APIs e gerenciamento de estado</li>
-        <li>Noções de back-end com Node.js e SQL</li>
-      </ul>
-    <td valign="top" align="center">
-      <br><br> <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="600px">
-    </td>
-  </tr>
-</table>
-
----
+<p align="left"> 
+Engenheiro de Software com foco em Front-End. <br/>
+Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
+</p>
 
   <h2 style="text-align: left;">💡 Foco atual nos estudos</h2>
 
