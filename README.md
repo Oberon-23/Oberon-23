@@ -78,19 +78,11 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 <!-- GitHubStats -->
-## GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&include_all_commits=true&count_private=true&title_color=EC7C26&text_color=A35B2C&icon_color=EC7C26&bg_color=1A1A1A&hide_border=true&rank_icon=github" 
-    width="400" 
-    alt="Estatísticas gerais do GitHub"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true" 
-    width="400" 
-    alt="Linguagens mais usadas"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhomarcia&layout=compact&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true" width="400" alt="Linguagens mais usadas" />
 </p>
 
 <hr>
