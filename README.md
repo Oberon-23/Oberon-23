@@ -56,24 +56,59 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 ### Tecnologias & Stacks 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px"/>
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50px" />
-  <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" width="50px" />
-  <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/white/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" />
-  <img src="https://github.com/user-attachments/assets/f8fb90e2-f8b9-48e7-9941-26f5e8c393f8" width="50px" />
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="50px" />
+  <!-- Linha 1 -->
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="50" />
+  </span>
+</p>
+
+<p align="center">
+  <!-- Linha 2 -->
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/white/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
+  </span>
 </p>
 
 ---
