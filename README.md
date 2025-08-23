@@ -45,9 +45,9 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right"/>
   
-- 🎓 Curso Engenheiro Front-End <strong>(EBAC)</strong>.
+- 🎓 Curso Engenheiro Front-End <strong>(EBAC - 2025)</strong>.
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN)</strong>.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN - 2025)</strong>.
 
 - 🎓 Curso Análise e Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
 
