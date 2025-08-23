@@ -120,7 +120,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=chartreuse-dark&title_color=EC7C26&icon_color=EC7C26&text_color=EC7C26" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oberon-23&count_private=true&show_icons=true&background=1A1A1A&title_color=#EC7C26icon_color=#EC7C26&stroke_col=00FF00&line_height=10" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oberon-23&count_private=true&show_icons=true&background=1A1A1A&title_color=EC7C26&icon_color=EC7C26&stroke_col=00FF00&line_height=10" height="165"/>
 
 ---
 
