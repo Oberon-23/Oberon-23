@@ -146,7 +146,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ## 📬 Contatos
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EC7C26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
