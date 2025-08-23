@@ -25,8 +25,6 @@ Estudos focado em:
     <li>Python para análise e automação</li>
     <li>ETL e consumo de APIs para coleta e integração de dados</li>
     <li>Visualização de dashboards com Power BI e Excel</li>
-    <li></li>
-    <li></li>
   </ul>
 </div>
 
@@ -34,11 +32,9 @@ Habilidades Técnicas:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Python para análise e automação</li>
-    <li>ETL e consumo de APIs para coleta e integração de dados</li>
-    <li>Visualização de dashboards com Power BI e Excel</li>
-    <li></li>
-    <li></li>
+    <li>Análise de Dados (Em aprendizado): Power BI, Excel, Python, Pandas, ETL, SQL</li>
+    <li>Front-End(Base): HTML, CSS, JavaScript, React.js, TypeScript</li>
+    <li>Ferramentas: GitHub, Figma, N8N</li>
   </ul>
 </div>
 
