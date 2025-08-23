@@ -1,3 +1,8 @@
+<!-- CONTADOR DE VISITAS -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Oberon-23/count.svg" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=%F0%9F%9A%80+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
