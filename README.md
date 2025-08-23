@@ -53,7 +53,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 <!-- Tecnologias -->
-### Tecnologias & Stacks 
+### Tecnologias & Stacks:
 
 <p align="center">
   <!-- Linha 1 -->
