@@ -16,6 +16,8 @@ Engenheiro de Software com foco em Front-End. <br/>
 Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
 </p>
 
+---
+
 ## 💡 Foco atual nos estudos
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
