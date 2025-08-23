@@ -27,6 +27,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
     <li>Visualização de dashboards com Power BI e Excel</li>
   </ul>
 </div>
+
 <!-- Habilidades Técnicas -->
 ### Habilidades Técnicas:
 
