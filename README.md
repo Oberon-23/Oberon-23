@@ -9,6 +9,8 @@
 </p>
 <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="400px" align="right">
 
+---
+
 <p align="left"> 
 Engenheiro de Software com foco em Front-End. <br/>
 Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
