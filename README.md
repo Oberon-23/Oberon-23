@@ -66,6 +66,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />  
 </p>
 
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
