@@ -1,4 +1,4 @@
-<!-- CONTADOR DE VISITAS -->
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fe26ed4e-3204-4e9b-af43-005da41918f3" /><!-- CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://profile-counter.deno.dev/Oberon-23/count.svg" alt="Visitor count" />
 </p>
@@ -72,6 +72,8 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" />
+  <img src="https://github.com/user-attachments/assets/f8fb90e2-f8b9-48e7-9941-26f5e8c393f8" width="50px" />
+
 </p>
 
 ---
