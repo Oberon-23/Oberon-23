@@ -37,10 +37,9 @@ Habilidades Técnicas:
     <li>Ferramentas: GitHub, Figma, N8N</li>
   </ul>
 </div>
-
-
 <br/>
 
+---
 
 
 
