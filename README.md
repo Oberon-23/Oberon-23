@@ -18,7 +18,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 
-Estudos focado em: 
+### Estudos focado em: 
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
@@ -28,7 +28,7 @@ Estudos focado em:
   </ul>
 </div>
 
-Habilidades Técnicas:
+### Habilidades Técnicas:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
