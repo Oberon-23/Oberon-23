@@ -47,7 +47,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN)</strong>.
 
-- 🎓 Curso Análise e Ciência de Dados com IA <strong>Preditiva.ai (Cursando)</strong>.
+- 🎓 Curso Análise e Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
 
 ---
 
