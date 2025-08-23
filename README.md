@@ -80,19 +80,13 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 <!-- GitHubStats -->
 ### GitHub Stats
 
-   <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Oberon-23&hide_border=true&background=1A1A1A&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&sideNums=A35B2C&sideLabels=A35B2C&dates=A35B2C"
-    width="400"
-    alt="GitHub Streak - Oberon-23"
-  />
+   <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oberon 23&hide_border=true&background=1A1A1A&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&sideNums=A35B2C&sideLabels=A35B2C&dates=A35B2C"width="400" alt="GitHub Streak - Oberon-23" />
 </p>
 
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true" width="400" alt="Linguagens mais usadas" />
 </p>
-
-<hr>
-
 
 ---
 
