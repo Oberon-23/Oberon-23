@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fe26ed4e-3204-4e9b-af43-005da41918f3" /><!-- CONTADOR DE VISITAS -->
+<!-- CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://profile-counter.deno.dev/Oberon-23/count.svg" alt="Visitor count" />
 </p>
