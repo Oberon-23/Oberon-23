@@ -80,7 +80,8 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 <!-- GitHubStats -->
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhomarcia&layout=compact&theme=chartreuse-dark"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostinhomarcia&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true" width="400" alt="Linguagens mais usadas" />
 </p>
