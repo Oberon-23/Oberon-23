@@ -1,6 +1,6 @@
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oberon-23&label=Profile%20views&color=EC7C26&style=for-the-badge" alt="Profile views" />
+  <img src="https://profile-counter.deno.dev/Oberon-23/count.svg" alt="Visitor count" />
 </p>
 
 <!-- Frase de efeito com digitação -->
