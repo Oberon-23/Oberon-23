@@ -31,9 +31,8 @@ Estudos focado em:
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="left"/>
-</p>
+</p><br/>
 
----
 
 
 
