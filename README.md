@@ -22,16 +22,28 @@ Estudos focado em:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>APIs REST com React</li>
-    <li>Testes com Cypress</li>
-    <li>Docker + GitHub Actions</li>
-    <li>Integração Postman + FastAPI</li>
-    <li>UI/UX e acessibilidade web</li>
+    <li>Python para análise e automação</li>
+    <li>ETL e consumo de APIs para coleta e integração de dados</li>
+    <li>Visualização de dashboards com Power BI e Excel</li>
+    <li></li>
+    <li></li>
   </ul>
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="left"/>
-</p><br/>
+
+Habilidades Técnicas:
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <ul>
+    <li>Python para análise e automação</li>
+    <li>ETL e consumo de APIs para coleta e integração de dados</li>
+    <li>Visualização de dashboards com Power BI e Excel</li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+
+
+<br/>
 
 
 
