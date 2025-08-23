@@ -127,14 +127,17 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 - 🌐 **[Projeto Site Responsivo](https://github.com/Oberon-23/projeto-site-responsivo)** – Site 100% responsivo com HTML/CSS Grid & Flexbox  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/projeto-site-responsivo)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
 
 - 📺 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing com design moderno e responsivo  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/clone-disneyplus)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
 
 - 🕷️ **[Homem-Aranha Webpage](https://github.com/Oberon-23/spiderman-landing-page)** – Página temática inspirada no Miles Morales  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/spiderman-landing-page)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
 
-📌 Veja todos os projetos [aqui](https://github.com/Oberon-23?tab=repositories)
+- Veja todos os projetos [aqui](https://github.com/Oberon-23?tab=repositories)
 
 ---
 
