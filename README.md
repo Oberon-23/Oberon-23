@@ -18,7 +18,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 
-Foco atual nos estudos
+Estudos focado em: 
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
