@@ -124,12 +124,6 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <br/>
 </p>
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Oberon-23&row=1&theme=dracula"/>
-  <br/>
-</p>
-
 ---
 
 ### Projetos  
