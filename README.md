@@ -52,7 +52,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 - 🎓 Curso Análise e Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
 
 ---
-
+<!-- Tecnologias -->
 ### Tecnologias & Stacks 
 
 <p align="center">
