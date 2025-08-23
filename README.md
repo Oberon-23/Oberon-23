@@ -158,16 +158,16 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 
-## <h2 align="center">🐍 Snake.io</h2>
+### Snake.io
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-
 ---
 
 > _“A tecnologia move o mundo.” – Steve Jobs_  
-> Sempre aberto a desafios, projetos e colaborações! 🚀
+> Sempre aberto a desafios, projetos e colaborações!
 
 
 
