@@ -115,18 +115,17 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 <!-- GitHubStats -->
 ### GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Oberon-23&hide_border=true&background=1A1A1A&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&currStreakNum=00FF00&sideNums=A35B2C&sideLabels=A35B2C&dates=A35B2C" 
-    width="400" 
-    alt="GitHub Streak - Oberon-23" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&langs_count=8&card_width=350&title_color=EC7C26&text_color=A35B2C&bg_color=1A1A1A&hide_border=true" 
-    width="400" 
-    alt="Linguagens mais usadas" 
-  />
-</p>
+<div> 
+  <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:brenoosbr@outlook.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/breno.sbr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 ---
 
