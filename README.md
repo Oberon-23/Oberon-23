@@ -82,7 +82,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Oberon-23&hide_border=true&background=1A1A1A&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&sideNums=A35B2C&sideLabels=A35B2C&dates=A35B2C" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Oberon-23&hide_border=true&background=1A1A1A&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&currStreakNum=00FF00&sideNums=A35B2C&sideLabels=A35B2C&dates=A35B2C" 
     width="400" 
     alt="GitHub Streak - Oberon-23" 
   />
