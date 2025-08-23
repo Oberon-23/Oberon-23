@@ -144,29 +144,19 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ---
 
-
-
 ## 📬 Contatos
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </td>
-    <td>
-      <a href="mailto:brenoosbr@outlook.com">
-        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/breno.sbr/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EC7C26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brenoosbr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EC7C26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/breno.sbr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-EC7C26?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
