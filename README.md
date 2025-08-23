@@ -41,8 +41,6 @@ Habilidades Técnicas:
 
 ---
 
-
-
 ## 📚 Certificações
 
 - 🎓 Engenheiro Front-End <strong>(EBAC)</strong>.
