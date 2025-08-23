@@ -35,6 +35,8 @@ Estudos focado em:
 
 ---
 
+
+
 ## 📚 Certificações
 
 - 🎓 Engenheiro Front-End <strong>(EBAC)</strong>.
