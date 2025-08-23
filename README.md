@@ -146,13 +146,13 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
 
 ## 📬 Contatos
 
-<div align="center">
+<div align="left>
   <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EC7C26?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> | 
   <a href="mailto:brenoosbr@outlook.com">
     <img src="https://img.shields.io/badge/Email-EC7C26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a> | 
   <a href="https://www.instagram.com/breno.sbr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-EC7C26?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
