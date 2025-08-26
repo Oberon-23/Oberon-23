@@ -101,7 +101,7 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
     <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/white/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" />
+    <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
