@@ -120,9 +120,6 @@ Atualmente em transição para a área de Ciência e Análise de Dados, unindo m
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26"/>
 
-  <!-- Streak Stats -->
- <img src="https://streak-stats.demolab.com?user=Oberon-23&theme=dark&ring=EC7C26&fire=EC7C26&currStreakLabel=EC7C26&dates=EC7C26" height="165" />
-
 </p>
   
 ---
