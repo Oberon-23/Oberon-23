@@ -119,24 +119,6 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
   
 ---
 
-### Projetos  
-
-- 🎮 **[E-Play EBAC](https://github.com/Oberon-23/eplay-ebac)** – E‑commerce de jogos com ReactJS  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/eplay-ebac) 
-  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
-
-- 📺 **[Disney Plus Landing Page](https://github.com/Oberon-23/clone-disneyplus)** – Landing com design moderno e responsivo  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/clone-disneyplus)
-  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
-
-- 🕷️ **[Homem-Aranha Webpage](https://github.com/Oberon-23/spiderman-landing-page)** – Página temática inspirada no Miles Morales  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Oberon-23/spiderman-landing-page)
-  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/oberon-23s-projects)
-
-- Veja todos os projetos [aqui](https://github.com/Oberon-23?tab=repositories)
-
----
-
 ### Contatos
 
 <div> 
