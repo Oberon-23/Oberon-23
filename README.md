@@ -102,6 +102,12 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  </span>
+  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
   </span>
 </p>
