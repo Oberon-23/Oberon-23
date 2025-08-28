@@ -12,9 +12,7 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com foco em Front-End. <br/>
-Atualmente em transição para a área de Ciência e Análise de Dados, unindo minha experiência em desenvolvimento com habilidades de manipulação, tratamentoe  visualização de dados.
-</p>
+Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ciência e Análise de Dados, unindo experiência em desenvolvimento com habilidades em manipulação, tratamento e visualização de dados.
 
 ---
 <!-- Estudos -->
