@@ -121,6 +121,8 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26"/>
 
+  https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+
 </p>
   
 ---
