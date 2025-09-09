@@ -122,7 +122,8 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26"/>
 
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Oberon-23&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26&v=3)
-  
+
+  </p>
 ---
 
 ### Confira alguns projetos:
