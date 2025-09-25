@@ -27,7 +27,7 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 </div>
 
 <!-- Habilidades Técnicas -->
-### Habilidades Técnicas:
+### Technical Skills
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
