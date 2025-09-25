@@ -5,7 +5,7 @@
 
 <!-- Frase de efeito com digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Hi+there,+welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 <img src="./assets/gifs/gato-legal.webp" alt="Animação de um pinguim programando" width="400px" align="right">
 
