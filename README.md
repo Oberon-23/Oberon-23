@@ -12,11 +12,11 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ciência e Análise de Dados, unindo experiência em desenvolvimento com habilidades em manipulação, tratamento e visualização de dados.
+I am a Software Engineer focused on Front-End development, currently expanding my career into Data Science and Data Analysis. My goal is to combine my web development expertise with skills in data manipulation, processing, and visualization, turning information into valuable insights.
 
 ---
 <!-- Estudos -->
-### Estudos focado em: 
+### Studies focused on:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
@@ -31,9 +31,9 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Análise de Dados (Em aprendizado): Power BI, Excel, Python, Pandas, Numpy, Scikit-Learn, ETL, SQL</li>
-    <li>Front-End (Base): HTML, CSS, JavaScript, React.js, TypeScript, Node.js</li>
-    <li>Ferramentas: GitHub, Figma, N8N</li>
+    <li>Data Analysis (In Progress): Power BI, Excel, Python, Pandas, Numpy, Scikit-Learn, ETL, SQL</li>
+    <li>Front-End Development (Base): HTML, CSS, JavaScript, React.js, TypeScript, Node.js</li>
+    <li>Tools: GitHub, Figma, N8N</li>
   </ul>
 </div>
 
@@ -43,11 +43,11 @@ Engenheiro de Software com foco em Front-End, expandindo minha atuação para Ci
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
-- 🎓 Curso Engenheiro Front-End <strong>(EBAC - 2025)</strong>.
+- 🎓  Front-End Engineer <strong>(EBAC - 2025)</strong>.
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN - 2025)</strong>.
+- 🎓 Associate Degree in Systems Analysis and Development <strong>(UNIGRAN - 2025)</strong>.
 
-- 🎓 Curso Análise e Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
+- 🎓 Data Analysis & Data Science with AI <strong>Preditiva.ai (In progress)</strong>.
 
 ---
 <!-- Tecnologias -->
