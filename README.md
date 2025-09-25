@@ -39,7 +39,7 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 
 ---
 <!-- Certificações -->
-### Certificações
+### Education & Certifications
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
