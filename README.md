@@ -128,17 +128,17 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 
 ---
 
-### Confira alguns projetos:
+### Check out some projects:
 
 <div> 
   <a href="https://vercel.com/oberon-23s-projects" target="_blank">
-    <img src="https://img.shields.io/badge/-Meus%20Projetos%20na%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-My%20Projects%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
 
 ---
 
-### Contatos
+### Contacts
 
 <div> 
   <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
