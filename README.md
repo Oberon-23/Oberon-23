@@ -51,7 +51,7 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 
 ---
 <!-- Tecnologias -->
-### Tecnologias & Stacks:
+### Technologies & Stacks
 
 <p align="center">
   <!-- Linha 1 -->
