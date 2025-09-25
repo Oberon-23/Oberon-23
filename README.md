@@ -20,9 +20,9 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Python para análise e automação</li>
-    <li>ETL e consumo de APIs para coleta e integração de dados</li>
-    <li>Visualização de dashboards com Power BI e Excel</li>
+    <li>Python for analysis and automation</li>
+    <li>ETL and API consumption for data collection and integration</li>
+    <li>Dashboard visualization with Power BI and Excel</li>
   </ul>
 </div>
 
