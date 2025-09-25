@@ -156,8 +156,9 @@ I am a Software Engineer focused on Front-End development, currently expanding m
 
 ---
 
-> _“A tecnologia move o mundo.” – Steve Jobs_  
-> Sempre aberto a desafios, projetos e colaborações!
+> _“Technology moves the world.” – Steve Jobs_  
+> Always open to challenges, projects, and collaborations!
+
 
 
 
