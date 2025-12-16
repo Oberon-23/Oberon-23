@@ -45,7 +45,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 <!-- Certificações -->
 ### Certificações
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
 - 🎓  Engenheiro Front-End <strong>(EBAC - 2025)</strong>.
 
