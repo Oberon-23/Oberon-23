@@ -12,8 +12,9 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-I am a Software Engineer focused on Front-End development, currently expanding my career into Data Science and Data Analysis. My goal is to combine my web development expertise with skills in data manipulation, processing, and visualization, turning information into valuable insights.
+Engenheiro de Software com experiência em desenvolvimento Front-End, atualmente em transição para a área de Dados, com foco em Análise de Dados e Ciência de Dados.
 
+Tenho direcionado meus estudos e projetos para Python aplicado à análise e automação, tratamento e integração de dados (ETL) e visualização de informações com Power BI e Excel. Busco unir minha base em desenvolvimento com pensamento analítico para transformar dados em insights acionáveis.
 ---
 <!-- Estudos -->
 ### Studies focused on:
