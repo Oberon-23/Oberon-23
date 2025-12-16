@@ -118,7 +118,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 <!-- GitHubStats -->
-### GitHub Stats
+### Status GitHub
 
 <p align="center">
   
