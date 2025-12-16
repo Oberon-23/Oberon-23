@@ -17,43 +17,41 @@ Engenheiro de Software com experiência em desenvolvimento Front-End, atualmente
 Tenho direcionado meus estudos e projetos para Python aplicado à análise e automação, tratamento e integração de dados (ETL) e visualização de informações com Power BI e Excel. Busco unir minha base em desenvolvimento com pensamento analítico para transformar dados em insights acionáveis.
 
 
-  
 ---
 
-  
 <!-- Estudos -->
-### Studies focused on:
+### Estudos focados em:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Python for analysis and automation</li>
-    <li>ETL and API consumption for data collection and integration</li>
-    <li>Dashboard visualization with Power BI and Excel</li>
+    <li>Python para análise e automação</li>
+    <li>ETL e consumo de APIs para coleta e integração de dados</li>
+    <li>Visualização de dashboards com Power BI e Excel</li>
   </ul>
 </div>
 
 <!-- Habilidades Técnicas -->
-### Technical Skills
+### Habilidades Técnicas
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Data Analysis (In Progress): Power BI, Excel, Python, Pandas, Numpy, Scikit-Learn, ETL, SQL</li>
-    <li>Front-End Development (Base): HTML, CSS, JavaScript, React.js, TypeScript, Node.js</li>
-    <li>Tools: GitHub, Figma, N8N</li>
+    <li>Análise de Dados: Power BI, Excel, Python, Pandas, NumPy, ScikitLearn, ETL, SQL</li>
+    <li>Front-End (Base): HTML, CSs, JavaSCript, React.Js, TypeScript, Node.js</li>
+    <li>Ferramentas: GitHub, Figma</li>
   </ul>
 </div>
 
 ---
 <!-- Certificações -->
-### Education & Certifications
+### Certificações
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Keep+studying!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
-- 🎓  Front-End Engineer <strong>(EBAC - 2025)</strong>.
+- 🎓  Engenheiro Front-End <strong>(EBAC - 2025)</strong>.
 
-- 🎓 Associate Degree in Systems Analysis and Development <strong>(UNIGRAN - 2025)</strong>.
+- 🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN - 2025)</strong>.
 
-- 🎓 Data Analysis & Data Science with AI <strong>Preditiva.ai (In progress)</strong>.
+- 🎓 Análise de Dados & Ciência de Dados com IA <strong>Preditiva.ai (Cursando)</strong>.
 
 ---
 <!-- Tecnologias -->
