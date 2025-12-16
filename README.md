@@ -20,7 +20,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 ---
 
 <!-- Estudos -->
-### Estudos focados em:
+### Estudos focados em
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
@@ -132,12 +132,12 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 
-### Veja alguns dos meus projetos:
+### Veja alguns dos meus projetos
 
 <div> 
   <a href="https://vercel.com/oberon-23s-projects" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Projects%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 </div>
 
 ---
