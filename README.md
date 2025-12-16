@@ -132,7 +132,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 
-### Check out some projects:
+### Veja alguns dos meus projetos:
 
 <div> 
   <a href="https://vercel.com/oberon-23s-projects" target="_blank">
@@ -142,7 +142,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 
-### Contacts
+### Contatos
 
 <div> 
   <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -152,7 +152,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 
-### Snaaake.io
+### o/
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -160,8 +160,8 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 
-> _“Technology moves the world.” – Steve Jobs_  
-> Always open to challenges, projects, and collaborations!
+> _“Tecnologia move o mundo.” – Steve Jobs_  
+> Sempre aberto a desafios, projetos e colaborações!
 
 
 
