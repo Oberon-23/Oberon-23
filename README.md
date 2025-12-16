@@ -55,7 +55,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 ---
 <!-- Tecnologias -->
-### Technologies & Stacks
+### Tecnologias & Stacks
 
 <p align="center">
   <!-- Linha 1 -->
