@@ -92,9 +92,6 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
-  </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
