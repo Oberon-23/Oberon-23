@@ -108,8 +108,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Oberon-23)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oberon-23&theme=dark)
 ---
 
 ### Veja alguns dos meus projetos
