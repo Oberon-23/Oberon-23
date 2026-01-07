@@ -106,13 +106,9 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 <!-- GitHubStats -->
 ### Status GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&theme=dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&hide_border=true)
 
 ---
 
