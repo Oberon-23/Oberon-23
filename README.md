@@ -113,7 +113,6 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
 ---
 
 ### Veja alguns dos meus projetos
