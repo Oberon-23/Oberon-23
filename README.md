@@ -109,12 +109,14 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 <p align="center">
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26"/>
- </p>
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oberon-23&layout=compact&theme=dark&hide_border=true"
+/>
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oberon-23&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=EC7C26&text_color=EC7C26&icon_color=EC7C26&v=3" alt="Estatísticas do GitHub" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Oberon-23&show_icons=true&theme=dark&hide_border=true"
+/></p>
 
 ---
 
