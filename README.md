@@ -1,8 +1,3 @@
-<!-- CONTADOR DE VISITAS -->
-<p align="center">
-  <img src="https://profile-counter.deno.dev/Oberon-23/count.svg" alt="Visitor count" />
-</p>
-
 <!-- Frase de efeito com digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
@@ -51,7 +46,7 @@ Tenho direcionado meus estudos e projetos para Python aplicado à análise e aut
 
 - 🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN - 2025)</strong>.
 
-- 🎓 Análise de Dados & Ciência de Dados com IA <strong>Preditiva.ai (Cursando)</strong>.
+- 🎓 Análise de Dados & Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
 
 ---
 <!-- Tecnologias -->
