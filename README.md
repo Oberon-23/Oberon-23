@@ -42,11 +42,11 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
-- 🎓  Engenheiro Front-End <strong>(EBAC - 2025)</strong>.
+- 🎓  Engenheiro Front-End - EBAC <strong>(2025)</strong>.
 
-- 🎓 Análise e Desenvolvimento de Sistemas <strong>(UNIGRAN - 2025)</strong>.
+- 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>.
 
-- 🎓 Análise de Dados & Ciência de Dados com IA <strong>(Preditiva.ai - Cursando)</strong>.
+- 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva.ai <strong>(Cursando)</strong>.
 
 ---
 <!-- Tecnologias -->
