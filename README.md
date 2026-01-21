@@ -7,9 +7,9 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com experiência em desenvolvimento Front-End, atualmente em transição para a área de Dados, com foco em Análise de Dados e Ciência de Dados.
-  
-Tenho direcionado meus estudos e projetos para Python aplicado à análise e automação, tratamento e integração de dados (ETL) e visualização de informações com Power BI e Excel. Busco unir minha base em desenvolvimento com pensamento analítico para transformar dados em insights acionáveis.
+Engenheiro de Software com foco em Análise de Dados e Ciência de Dados, com sólida base em desenvolvimento Front-End.
+
+Experiência com Python para análise e automação, pipelines ETL, integração via APIs e visualização de dados por meio de Power BI e Excel, com o objetivo de transformar dados brutos em insights relevantes para contextos de negócio e operações.
 
 
 ---
