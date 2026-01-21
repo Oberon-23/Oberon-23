@@ -19,8 +19,8 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Python para análise e automação</li>
-    <li>ETL e consumo de APIs para coleta e integração de dados</li>
+    <li>Python aplicado à análise e automação</li>
+    <li>ETL e consumo de APIs para coleta, tratamento e integração de dados</li>
     <li>Visualização de dashboards com Power BI e Excel</li>
   </ul>
 </div>
@@ -30,8 +30,8 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Análise de Dados: Power BI, Excel, Python, Pandas, NumPy, ScikitLearn, ETL, SQL</li>
-    <li>Front-End (Base): HTML, CSs, JavaSCript, React.Js, TypeScript, Node.js</li>
+    <li>Análise de Dados: Python, Pandas, NumPy, PowerBI, Excel, SQL, ETL, Scikit-learn</li>
+    <li>Front-End (Base): HTML, CSS, JavaScript, React.Js, TypeScript, Node.js</li>
     <li>Ferramentas: GitHub, Figma</li>
   </ul>
 </div>
