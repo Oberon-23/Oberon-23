@@ -99,16 +99,6 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 ---
 
-### Veja alguns dos meus projetos
-
-<div> 
-  <a href="https://vercel.com/oberon-23s-projects" target="_blank">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-</div>
-
----
-
 ### Contatos
 
 <div> 
