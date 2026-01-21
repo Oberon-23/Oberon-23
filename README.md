@@ -48,6 +48,8 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 - 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva.ai <strong>(Cursando)</strong>.
 
+- CPA - ANBIMA <strong>(2026)</strong>.
+
 ---
 <!-- Tecnologias -->
 ### Tecnologias & Stacks
