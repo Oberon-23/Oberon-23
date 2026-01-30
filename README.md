@@ -42,7 +42,7 @@ Experiência com Python para análise e automação, pipelines ETL, integração
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
   
-- 🎓  Gestão Finaceira - UNOPAR <strong>(Cursando)<>/strong>
+- 🎓  Gestão Finaceira - UNOPAR <strong>(Cursando)</strong>
 
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>.
 
