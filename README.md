@@ -44,11 +44,11 @@ Experiência com Python para análise e automação, pipelines ETL, integração
   
 - 🎓  Gestão Finaceira - UNOPAR <strong>(Cursando)</strong>
 
-- 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>.
+- 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>
 
-- 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva.ai <strong>(Cursando)</strong>.
+- 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva.ai <strong>(Cursando)</strong>
 
-- 🎓 CPA - ANBIMA <strong>(2026)</strong>.
+- 🎓 CPA - ANBIMA <strong>(2026)</strong>
 
 ---
 <!-- Tecnologias -->
