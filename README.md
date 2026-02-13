@@ -34,10 +34,8 @@ Meu objetivo é transformar dados e fluxos operacionais em processos mensurávei
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 Análise e Processos:
 Python, Pandas, NumPy, SQL, ETL, Power BI, Excel, Scikit-learn
-
 Suporte Técnico para Projetos de TI:
 HTML, CSS, JavaScript, React.js, TypeScript, Node.js
-
 Ferramentas:
 GitHub, Figma
 
