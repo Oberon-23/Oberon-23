@@ -7,48 +7,49 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com foco em Análise de Dados e Ciência de Dados, com sólida base em desenvolvimento Front-End.
+Engenheiro de Software com foco em Gestão de Projetos e Processos, com forte base analítica e técnica em dados.
 
-Experiência com Python para análise e automação, pipelines ETL, integração via APIs e visualização de dados por meio de Power BI e Excel, com o objetivo de transformar dados brutos em insights relevantes para contextos de negócio e operações.
+Atuo na estruturação, análise e automação de informações para otimização de processos, acompanhamento de indicadores e suporte à tomada de decisão estratégica. Experiência com Python para automação e ETL, integração via APIs e construção de dashboards no Power BI e Excel, conectando tecnologia, métricas e eficiência operacional.
 
+Meu objetivo é transformar dados e fluxos operacionais em processos mensuráveis, escaláveis e orientados a resultados.
 
 ---
 
 <!-- Estudos -->
-### Estudos focados em
+### Foco de Desenvolvimento
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Python aplicado à análise e automação</li>
-    <li>ETL e consumo de APIs para coleta, tratamento e integração de dados</li>
-    <li>Visualização de dashboards com Power BI e Excel</li>
+    <li>Automação e melhoria de processos com Python</li>
+    <li>Estruturação de indicadores (KPIs) e monitoramento de desempenho</li>
+    <li>ETL e integração de dados para gestão operacional</li>
+    <li>Construção de dashboards gerenciais (Power BI e Excel)</li>
+    <li>Apoio técnico em projetos de tecnologia</li>
   </ul>
 </div>
 
 <!-- Habilidades Técnicas -->
-### Habilidades Técnicas
+### Habilidades Técnicas Aplicadas à Gestão
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <ul>
-    <li>Análise de Dados: Python, Pandas, NumPy, PowerBI, Excel, SQL, ETL, Scikit-learn</li>
-    <li>Front-End (Base): HTML, CSS, JavaScript, React.Js, TypeScript, Node.js</li>
-    <li>Ferramentas: GitHub, Figma</li>
-  </ul>
-</div>
+Análise e Processos:
+Python, Pandas, NumPy, SQL, ETL, Power BI, Excel, Scikit-learn
+
+Suporte Técnico para Projetos de TI:
+HTML, CSS, JavaScript, React.js, TypeScript, Node.js
+
+Ferramentas:
+GitHub, Figma
 
 ---
 <!-- Certificações -->
 ### Certificações
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
-  
-- 🎓  Gestão Finaceira - UNOPAR <strong>(Cursando)</strong>
 
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>
 
 - 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva Analytics <strong>(Cursando)</strong>
-
-- 🎓 CPA - ANBIMA <strong>(2026)</strong>
 
 ---
 <!-- Tecnologias -->
