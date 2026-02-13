@@ -32,6 +32,7 @@ Meu objetivo é transformar dados e fluxos operacionais em processos mensurávei
 ### Habilidades Técnicas Aplicadas à Gestão
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
+  
 Análise e Processos:
 Python, Pandas, NumPy, SQL, ETL, Power BI, Excel, Scikit-learn <br>
   
