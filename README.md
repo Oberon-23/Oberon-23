@@ -35,17 +35,17 @@ Busco atuar no desenvolvimento, contribuindo na construção de sistemas robusto
 </div>
 
 <!-- Habilidades Técnicas -->
-### Habilidades Técnicas Aplicadas à Gestão
+### Habilidades Técnicas
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
-Banco de Dados:
+<li>Banco de Dados:</li>
 Python, SQL, Modelagem Relacional <br>
   
-Desenvolvimento:
+<li>Desenvolvimento:</li>
 JavaScript, TypeScript, React.js, Node.js, HTML e CSS <br>
 
-Ferramentas:
+<li>Ferramentas:</li>
 GitHub, Git e Figma
 
 ---
