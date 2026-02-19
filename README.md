@@ -47,7 +47,7 @@ Python, SQL, Modelagem Relacional
 
 JavaScript, TypeScript, React.js, Node.js, HTML e CSS
 
-<li>Ferramentas:</li>
+<li>Ferramentas:</li> <br>
 
 GitHub, Git e Figma
 
