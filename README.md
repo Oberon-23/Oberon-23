@@ -12,11 +12,11 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com foco em Gestão de Projetos e Processos, com forte base analítica e técnica em dados.
+Engenheiro de Software com foco no desenvolvimento de aplicações web modernas e APIs escaláveis, utilizando JavaScript, TypeScript, React e Node.js.
 
-Atuo na estruturação, análise e automação de informações para otimização de processos, acompanhamento de indicadores e suporte à tomada de decisão estratégica. Experiência com Python para automação e ETL, integração via APIs e construção de dashboards no Power BI e Excel, conectando tecnologia, métricas e eficiência operacional.
+Experiência na construção de sistemas com integração de APIs, modelagem de banco de dados, organização de código seguindo boas práticas de arquitetura. Atuação no desenvolvimento de soluções eficientes, com atenção à perfomance, segurança e organização de projetos.
 
-Meu objetivo é transformar dados e fluxos operacionais em processos mensuráveis, escaláveis e orientados a resultados.
+Busco atuar no desenvolvimento, contribuindo na construção de sistemas robustos, escaláveis e orientados a boas práticas de engenharia. 
 
 ---
 
@@ -25,11 +25,12 @@ Meu objetivo é transformar dados e fluxos operacionais em processos mensurávei
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Automação e melhoria de processos com Python</li>
-    <li>Estruturação de indicadores (KPIs) e monitoramento de desempenho</li>
-    <li>ETL e integração de dados para gestão operacional</li>
-    <li>Construção de dashboards gerenciais (Power BI e Excel)</li>
-    <li>Apoio técnico em projetos de tecnologia</li>
+    <li>Desenvolvimento de APIs com Node.js</li>
+    <li>Construção de aplicações web com React e TypeScript</li>
+    <li>Integração frontend e backend</li>
+    <li>Modelagem e manipulação de banco de dados SQL</li>
+    <li>Estruturação de projetos com boas práticas de arquitetura</li>
+    <li>Versionamento de código com Git</li>
   </ul>
 </div>
 
@@ -38,14 +39,14 @@ Meu objetivo é transformar dados e fluxos operacionais em processos mensurávei
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
-Análise e Processos:
-Python, Pandas, NumPy, SQL, ETL, Power BI, Excel, Scikit-learn <br>
+Banco de Dados:
+Python, SQL, Modelagem Relacional <br>
   
-Suporte Técnico para Projetos de TI:
-HTML, CSS, JavaScript, React.js, TypeScript, Node.js <br>
+Desenvolvimento:
+JavaScript, TypeScript, React.js, Node.js, HTML e CSS <br>
 
 Ferramentas:
-GitHub, Figma
+GitHub, Git e Figma
 
 ---
 <!-- Certificações -->
@@ -54,8 +55,6 @@ GitHub, Figma
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
 
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>
-
-- 🎓 Análise de Dados & Ciência de Dados com IA - Preditiva Analytics <strong>(Cursando)</strong>
 
 ---
 <!-- Tecnologias -->
