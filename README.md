@@ -39,7 +39,7 @@ Busco atuar no desenvolvimento, contribuindo na construção de sistemas robusto
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
-### Desenvolvimento
+#### Desenvolvimento
 - JavaScript  
 - TypeScript  
 - React.js  
@@ -47,11 +47,11 @@ Busco atuar no desenvolvimento, contribuindo na construção de sistemas robusto
 - HTML5  
 - CSS3  
 
-### Banco de Dados
+#### Banco de Dados
 - SQL  
 - Modelagem Relacional  
 
-### Ferramentas
+#### Ferramentas
 - Git  
 - GitHub  
 - Figma  
