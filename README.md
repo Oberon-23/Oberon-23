@@ -39,17 +39,22 @@ Busco atuar no desenvolvimento, contribuindo na construção de sistemas robusto
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
-<li>Banco de Dados:</li> <br>
+### 💻 Desenvolvimento
+- JavaScript  
+- TypeScript  
+- React.js  
+- Node.js  
+- HTML5  
+- CSS3  
 
-Python, SQL, Modelagem Relacional 
-  
-<li>Desenvolvimento:</li> <br>
+### 🗄 Banco de Dados
+- SQL  
+- Modelagem Relacional  
 
-JavaScript, TypeScript, React.js, Node.js, HTML e CSS
-
-<li>Ferramentas:</li> <br>
-
-GitHub, Git e Figma
+### 🧰 Ferramentas
+- Git  
+- GitHub  
+- Figma  
 
 ---
 <!-- Certificações -->
