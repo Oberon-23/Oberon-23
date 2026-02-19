@@ -62,28 +62,12 @@ GitHub, Git e Figma
 ---
 <!-- Tecnologias -->
 ### Tecnologias & Stacks
-
-<p align="center">
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
-  </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
-  </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
-  </span>
-</p>
-
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
   </span>
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
@@ -107,7 +91,6 @@ GitHub, Git e Figma
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
   </span>
 </p>
-
 ---
 
 ### Contatos
