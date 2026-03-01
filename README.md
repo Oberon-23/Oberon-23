@@ -57,7 +57,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 ---
 <!-- Certificações -->
-### Certificações
+### Certificações:
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
 
@@ -66,7 +66,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 ---
 <!-- Tecnologias -->
-### Tecnologias & Stacks
+### Tecnologias & Stacks:
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
