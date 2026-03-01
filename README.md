@@ -33,40 +33,26 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 ---
 
 <!-- Habilidades Técnicas -->
-## 🛠️ Habilidades Técnicas
+### Habilidades Técnicas:
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
 
-### 📊 Dados & BI
+#### Dados & BI
 - SQL
 - Python
 - Análise de Dados
 - Modelagem Relacional
 - Power BI & Excel
 
-</td>
-    <td valign="top" width="33%">
-
-### 💻 Desenvolvimento
+#### Desenvolvimento
 - JavaScript
 - TypeScript
 - Node.js
 - React
 - Integração de APIs
-
-</td>
-    <td valign="top" width="33%">
-
-### 🔧 Ferramentas
-- Git
-- GitHub
-
-</td>
-  </tr>
-</table>
-
+#### Ferramentas
+- Git  
+- GitHub  
 ---
 <!-- Certificações -->
 ### Certificações:
