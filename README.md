@@ -12,25 +12,20 @@
 ---
 <!-- Sobre mim -->
 <p align="left"> 
-Engenheiro de Software com foco no desenvolvimento de aplicações web modernas e APIs escaláveis, utilizando JavaScript, TypeScript, React e Node.js.
-
-Experiência na construção de sistemas com integração de APIs, modelagem de banco de dados, organização de código seguindo boas práticas de arquitetura. Atuação no desenvolvimento de soluções eficientes, com atenção à perfomance, segurança e organização de projetos.
-
-Busco atuar no desenvolvimento, contribuindo na construção de sistemas robustos, escaláveis e orientados a boas práticas de engenharia. 
-
+Base técnica em desenvolvimento de sistemas e forte direcionamento para análise de dados aplicados a negócio.
+Interesse em indicadores de performance, análise de crédito, inteligência comercial e soluções orientadas a dados para o setor financeiro.
+  
 ---
 
 <!-- Estudos -->
-### Foco de Desenvolvimento
+### Foco atual:  
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
-    <li>Desenvolvimento de APIs com Node.js</li>
-    <li>Construção de aplicações web com React e TypeScript</li>
-    <li>Integração frontend e backend</li>
-    <li>Modelagem e manipulação de banco de dados SQL</li>
-    <li>Estruturação de projetos com boas práticas de arquitetura</li>
-    <li>Versionamento de código com Git</li>
+    <li>Análise de Dados</li>
+    <li>Business Intelligence (BI)</li>
+    <li>Mercado Financeiro</li>
+    <li>Inteligência Artificial & Inteligência Comercial</li>
   </ul>
 </div>
 
@@ -39,22 +34,23 @@ Busco atuar no desenvolvimento, contribuindo na construção de sistemas robusto
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
+#### Dados & BI
+- SQL
+- Python
+- Análise de Dados
+- Modelagem Relacional
+- Power BI & Excel
+  
 #### Desenvolvimento
-- JavaScript  
-- TypeScript  
-- React.js  
-- Node.js  
-- HTML5  
-- CSS3  
-
-#### Banco de Dados
-- SQL  
-- Modelagem Relacional  
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Integração de APIs
 
 #### Ferramentas
 - Git  
 - GitHub  
-- Figma  
 
 ---
 <!-- Certificações -->
