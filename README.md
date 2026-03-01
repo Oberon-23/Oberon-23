@@ -125,8 +125,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 ---
 
-### Snake o/
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
