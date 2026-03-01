@@ -76,12 +76,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px; color:white; font-weight:bold;">
-    Power BI
-  </span>
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px; color:white; font-weight:bold;">
-    Excel
-  </span>
 </p>
 
 <!-- BACKEND -->
@@ -114,14 +108,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
   </span>
 </p>
 
-<!-- FERRAMENTAS -->
-<h3 align="center">🛠 Ferramentas</h3>
-
-<p align="center">
-  <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-  </span>
-</p>
 ---
 
 ### Contatos
