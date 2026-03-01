@@ -1,3 +1,6 @@
+<!-- TOPO -->
+<img src="./assets/gifs/banner-top.svg" width="100%"/>
+
 <!-- Frase de efeito com digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
@@ -133,6 +136,9 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 > _“Tecnologia move o mundo.” – Steve Jobs_  
 > Sempre aberto a desafios, projetos e colaborações!
 
+
+<!-- RODAPÉ -->
+<img src="./assets/gifs/banner-footer.svg" width="100%"/>
 
 
 
