@@ -67,7 +67,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 ### Tecnologias & Stacks:
 
 <!-- DADOS & BI -->
-<h3 align="center">📊 Dados & BI</h3>
+<h3 align="center">Dados & BI</h3>
 
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
@@ -79,7 +79,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 </p>
 
 <!-- BACKEND -->
-<h3 align="center">⚙ Backend</h3>
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
@@ -91,7 +91,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 </p>
 
 <!-- FRONTEND -->
-<h3 align="center">💻 Frontend</h3>
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
