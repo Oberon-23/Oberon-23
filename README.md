@@ -62,6 +62,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" align="right" width="250px" />
 
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN <strong>(2025)</strong>
+- 🎓 Pós Graduação em Análise de Dados e Inteligência Artificial - Preditiva Analytics <strong>Conclusão em 2026</strong>
 
 ---
 <!-- Tecnologias -->
