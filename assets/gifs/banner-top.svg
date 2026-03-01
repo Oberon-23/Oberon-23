@@ -1,0 +1,74 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2d1457;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2d1457;stop-opacity:0" />
+      <stop offset="30%" style="stop-color:#EC7C26;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#EC7C26;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d1457;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#EC7C26;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#EC7C26;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#EC7C26;stop-opacity:0" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="180" fill="url(#bgGrad)" />
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="60" x2="1200" y2="60" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="0" y1="120" x2="1200" y2="120" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="900" y1="0" x2="900" y2="180" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+
+  <!-- Orange glow accent center -->
+  <ellipse cx="600" cy="90" rx="400" ry="60" fill="url(#accentGrad)" />
+
+  <!-- Corner decorations - top left -->
+  <rect x="30" y="20" width="40" height="2" fill="#EC7C26" opacity="0.7"/>
+  <rect x="30" y="20" width="2" height="40" fill="#EC7C26" opacity="0.7"/>
+
+  <!-- Corner decorations - top right -->
+  <rect x="1130" y="20" width="40" height="2" fill="#EC7C26" opacity="0.7"/>
+  <rect x="1168" y="20" width="2" height="40" fill="#EC7C26" opacity="0.7"/>
+
+  <!-- Corner decorations - bottom left -->
+  <rect x="30" y="158" width="40" height="2" fill="#EC7C26" opacity="0.7"/>
+  <rect x="30" y="120" width="2" height="40" fill="#EC7C26" opacity="0.7"/>
+
+  <!-- Corner decorations - bottom right -->
+  <rect x="1130" y="158" width="40" height="2" fill="#EC7C26" opacity="0.7"/>
+  <rect x="1168" y="120" width="2" height="40" fill="#EC7C26" opacity="0.7"/>
+
+  <!-- Small orange dots -->
+  <circle cx="100" cy="90" r="2" fill="#EC7C26" opacity="0.4"/>
+  <circle cx="140" cy="70" r="1.5" fill="#EC7C26" opacity="0.3"/>
+  <circle cx="160" cy="110" r="1" fill="#EC7C26" opacity="0.3"/>
+  <circle cx="1060" cy="90" r="2" fill="#EC7C26" opacity="0.4"/>
+  <circle cx="1100" cy="65" r="1.5" fill="#EC7C26" opacity="0.3"/>
+  <circle cx="1080" cy="115" r="1" fill="#EC7C26" opacity="0.3"/>
+
+  <!-- Main divider line with glow -->
+  <rect x="0" y="149" width="1200" height="1.5" fill="url(#lineGrad)" filter="url(#glow)"/>
+
+  <!-- Name -->
+  <text x="600" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="4" filter="url(#glow)">BRENO SILVA</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="118" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="400" fill="#EC7C26" text-anchor="middle" letter-spacing="6" opacity="0.9">DATA ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  MERCADO FINANCEIRO</text>
+
+</svg>
