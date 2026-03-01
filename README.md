@@ -30,8 +30,10 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
   </ul>
 </div>
 
+---
+
 <!-- Habilidades Técnicas -->
-### Habilidades Técnicas
+### Habilidades Técnicas:
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   
