@@ -135,8 +135,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 > _“Tecnologia move o mundo.” – Steve Jobs_  
 > Sempre aberto a desafios, projetos e colaborações!
-
-
+<br>
 <!-- RODAPÉ -->
 <img src="./assets/gifs/banner-footer.svg" width="100%"/>
 
