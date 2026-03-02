@@ -40,22 +40,13 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
-#### Dados & BI
-- SQL
-- Python
-- Análise de Dados
-- Modelagem Relacional
-- Power BI & Excel
-
-#### Desenvolvimento
-- JavaScript
-- TypeScript
-- Node.js
-- React
-- Integração de APIs
-#### Ferramentas
-- Git  
-- GitHub
+| #### 📊 Dados & BI | #### 💻 Desenvolvimento | #### 🔧 Ferramentas |
+|---|---|---|
+| SQL | JavaScript | Git |
+| Python | TypeScript | GitHub |
+| Análise de Dados | Node.js | |
+| Modelagem Relacional | React | |
+| Power BI & Excel | Integração de APIs | |
   
 ---
 
