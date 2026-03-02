@@ -40,7 +40,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
-| #### 📊 Dados & BI | #### 💻 Desenvolvimento | #### 🔧 Ferramentas |
+| 📊 Dados & BI | 💻 Desenvolvimento | 🔧 Ferramentas |
 |---|---|---|
 | SQL | JavaScript | Git |
 | Python | TypeScript | GitHub |
