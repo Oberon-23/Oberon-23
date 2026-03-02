@@ -111,15 +111,9 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 ### Contatos
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-2d1457?style=for-the-badge&logo=linkedin&logoColor=EC7C26" />
-  </a>
-  <a href="mailto:brenoosbr@outlook.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Outlook-2d1457?style=for-the-badge&logo=microsoftoutlook&logoColor=EC7C26" />
-  </a>
-  <a href="https://www.instagram.com/breno.sbr/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Instagram-2d1457?style=for-the-badge&logo=instagram&logoColor=EC7C26" />
-  </a>
+  <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:brenoosbr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank""></a>
+  <a href="https://www.instagram.com/breno.sbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ---
