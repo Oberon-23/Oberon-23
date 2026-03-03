@@ -22,8 +22,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 ---
 
 <!-- Estudos -->
-### Foco atual:  
-
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
     <li>Análise de Dados</li>
@@ -36,9 +34,7 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 ---
 
 <!-- Habilidades Técnicas -->
-### Habilidades Técnicas:
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
+<div align="center">
 
 | 📊 Dados & BI | 💻 Desenvolvimento | 🔧 Ferramentas |
 |---|---|---|
@@ -47,12 +43,12 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 | Análise de Dados | Node.js | |
 | Modelagem Relacional | React | |
 | Power BI & Excel | Integração de APIs | |
+
+</div>
   
 ---
 
 <!-- Certificações -->
-### Certificações:
-
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN
 - 🎓 Pós Graduação em Análise de Dados e Inteligência Artificial - Preditiva Analytics
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" width="250px" />
@@ -60,7 +56,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 ---
   
 <!-- Tecnologias -->
-### Tecnologias & Stacks:
 <!-- DADOS & BI -->
 <h4 align="center">Dados & BI</h4>
 <p align="center">
