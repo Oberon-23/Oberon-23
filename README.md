@@ -95,7 +95,6 @@ Interesse em indicadores de performance, análise de crédito, inteligência com
 
 ---
 
-### Contatos
 <div align="center"> 
   <a href="https://www.linkedin.com/in/brenosilvarangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2d1457?style=for-the-badge&logo=linkedin&logoColor=EC7C26" target="_blank"></a>
   <a href="mailto:brenoosbr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-2d1457?style=for-the-badge&logo=gmail&logoColor=EC7C26" target="_blank""></a>
