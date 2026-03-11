@@ -14,7 +14,7 @@
 
 ---
 <!-- Sobre mim -->
-<p align="Center"> Data Analytics | Business Intelligence | Mercado Financeiro
+<p align="Center"> Data Analytics | Business Intelligence
 <p align="left"> 
 Base técnica em desenvolvimento de sistemas, com foco em análise de dados aplicada a negócios.
 Interesse em indicadores de performance, análise de crédito e inteligência comercial, explorando soluções orientadas a dados para o setor financeiro.
@@ -26,8 +26,7 @@ Interesse em indicadores de performance, análise de crédito e inteligência co
   <ul>
     <li>Análise de Dados</li>
     <li>Business Intelligence (BI)</li>
-    <li>Mercado Financeiro</li>
-    <li>Inteligência Artificial & Inteligência Comercial</li>
+    <li>Inteligência Artificial</li>
   </ul>
 </div>
 
