@@ -14,7 +14,7 @@
 
 ---
 <!-- Sobre mim -->
-<p align="Center"> Data Analytics | Business Intelligence
+<p align="Center"> Data Analytics & Business Intelligence
 <p align="left"> 
 Base técnica em desenvolvimento de sistemas, com foco em análise de dados aplicada a negócios.
 Interesse em indicadores de performance, análise de crédito e inteligência comercial, explorando soluções orientadas a dados para o setor financeiro.
@@ -35,7 +35,7 @@ Interesse em indicadores de performance, análise de crédito e inteligência co
 <!-- Habilidades Técnicas -->
 <div align="center">
 
-| 📊 Dados & BI | 💻 Desenvolvimento | 🔧 Ferramentas |
+| Dados & BI | Desenvolvimento | Ferramentas |
 |---|---|---|
 | SQL | JavaScript | Git |
 | Python | TypeScript | GitHub |
