@@ -48,6 +48,7 @@ Interesse em indicadores de performance, análise de crédito e inteligência co
 ---
 
 <!-- Certificações -->
+- 🎓 Administração - Anhanguera
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN
 - 🎓 Especialização em Análise de Dados e Inteligência Artificial - Preditiva Analytics
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" width="250px" />
