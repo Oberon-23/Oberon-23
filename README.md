@@ -63,7 +63,7 @@ Estudante de Engenharia de Produção com foco em análise de dados aplicada a p
   </span>
 </p>
 <!-- BACKEND -->
-<h4 align="center">Backend</h4>
+<h4 align="center">Back-End</h4>
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" />
@@ -73,7 +73,7 @@ Estudante de Engenharia de Produção com foco em análise de dados aplicada a p
   </span>
 </p>
 <!-- FRONTEND -->
-<h4 align="center">Frontend</h4>
+<h4 align="center">Front-End</h4>
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
