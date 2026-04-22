@@ -53,7 +53,7 @@ Estudante de Engenharia de Produção com foco em análise de dados aplicada a p
   
 <!-- Tecnologias -->
 <!-- DADOS & BI -->
-<h4 align="center">Dados & BI</h4>
+<h4 align="center">Data Analytics</h4>
 <p align="center">
   <span style="display:inline-block; margin:5px; padding:10px; background-color:#1a1a1a; border-radius:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
