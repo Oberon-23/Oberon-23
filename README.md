@@ -1,7 +1,6 @@
 <!-- TOPO -->
 <img src="./assets/gifs/banner_breno.png" width="100%"/>
 
-<!-- Frase de efeito com digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
@@ -13,14 +12,14 @@
 </div>
 
 ---
-<!-- Sobre mim -->
+<!-- About me -->
 <p align="Center"> Data Analytics & Production Engineering
 <p align="left"> 
 Production Engineering student focused on data analytics applied to industrial processes.
   
 ---
 
-<!-- Estudos -->
+<!-- Studies -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 Industrial processes, continuous improvement, data analytics in O&G and large-scale industry.
  
@@ -28,7 +27,7 @@ Industrial processes, continuous improvement, data analytics in O&G and large-sc
 
 ---
 
-<!-- Habilidades Técnicas -->
+<!-- Technical abilities -->
 <div align="center">
 
 | Data Analytics | Development | Tools |
@@ -51,7 +50,7 @@ Industrial processes, continuous improvement, data analytics in O&G and large-sc
 
 ---
   
-<!-- Tecnologias -->
+<!-- Technologies -->
 <!-- DATA ANALYTICS -->
 <h4 align="center">Data Analytics</h4>
 <p align="center">
