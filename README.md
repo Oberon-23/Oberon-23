@@ -1,5 +1,5 @@
 <!-- TOPO -->
-<img src="./assets/gifs/banner-breno.png" width="100%"/>
+<img src="./assets/gifs/banner_breno.png" width="100%"/>
 
 <!-- Frase de efeito com digitação -->
 <p align="center">
