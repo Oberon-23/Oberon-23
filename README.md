@@ -47,7 +47,7 @@ Industrial processes, continuous improvement, data analytics in O&G and large-sc
 - 🎓 Engenharia de Produção - UNIGRAN
 - 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN EAD
 - 🎓 Especialização em Análise de Dados, Ciência de Dados e Inteligência Artificial - Preditiva Analytics
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" width="250px" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Focus+on+study!" alt="Typing SVG - Keep studying!" width="250px" />
 
 ---
   
