@@ -14,20 +14,15 @@
 
 ---
 <!-- Sobre mim -->
-<p align="Center"> Data Analytics & Business Intelligence
+<p align="Center"> Análise de Dados e Engenharia de Produção
 <p align="left"> 
-Base técnica em desenvolvimento de sistemas, com foco em análise de dados aplicada a negócios.
-Interesse em indicadores de performance, análise de crédito e inteligência comercial, explorando soluções orientadas a dados para o setor financeiro.
+Estudante de Engenharia de Produção com foco em análise de dados aplicada a processos industriais.
   
 ---
 
 <!-- Estudos -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <ul>
-    <li>Análise de Dados</li>
-    <li>Business Intelligence (BI)</li>
-    <li>Inteligência Artificial</li>
-  </ul>
+ Processos industriais, melhoria contínua, análise de dados em O&G e indústria de grande porte.
 </div>
 
 ---
@@ -48,9 +43,9 @@ Interesse em indicadores de performance, análise de crédito e inteligência co
 ---
 
 <!-- Certificações -->
-- 🎓 Administração - Anhanguera
-- 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN
-- 🎓 Especialização em Análise de Dados e Inteligência Artificial - Preditiva Analytics
+- 🎓 Engenharia de Produção - UNIGRAN
+- 🎓 Análise e Desenvolvimento de Sistemas - UNIGRAN EAD
+- 🎓 Especialização em Análise de Dados, Ciência de Dados e Inteligência Artificial - Preditiva Analytics
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=22&pause=1000&color=EC7C26&center=true&width=350&lines=Foco+nos+estudos!" alt="Typing SVG - Keep studying!" width="250px" />
 
 ---
@@ -103,15 +98,6 @@ Interesse em indicadores de performance, análise de crédito e inteligência co
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oberon-23/Oberon-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-> _“Tecnologia move o mundo.” – Steve Jobs_  
-> Sempre aberto a desafios, projetos e colaborações!
-<br>
 <!-- RODAPÉ -->
 <img src="./assets/gifs/banner-footer.svg" width="100%"/>
 
