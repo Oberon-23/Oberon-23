@@ -100,7 +100,7 @@ Industrial processes, continuous improvement, data analytics in O&G and large-sc
 ---
 
 <!-- RODAPÉ -->
-<img src="./assets/gifs/breno_banner_bottom" width="100%"/>
+<img src="./assets/gifs/breno_banner_bottom.png" width="100%"/>
 
 
 
