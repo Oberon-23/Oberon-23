@@ -14,7 +14,7 @@
 
 ---
 <!-- Sobre mim -->
-<p align="Center"> Análise de Dados e Engenharia de Produção
+<p align="Center"> Análise de Dados & Engenharia de Produção
 <p align="left"> 
 Estudante de Engenharia de Produção com foco em análise de dados aplicada a processos industriais.
   
@@ -22,6 +22,7 @@ Estudante de Engenharia de Produção com foco em análise de dados aplicada a p
 
 <!-- Estudos -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
+  
  Processos industriais, melhoria contínua, análise de dados em O&G e indústria de grande porte.
 </div>
 
