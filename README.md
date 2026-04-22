@@ -1,5 +1,5 @@
 <!-- TOPO -->
-<img src="./assets/gifs/banner_breno.png" width="100%"/>
+<img src="./assets/gifs/banner_centered.png" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EC7C26&center=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
