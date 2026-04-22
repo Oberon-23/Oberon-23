@@ -14,16 +14,16 @@
 
 ---
 <!-- Sobre mim -->
-<p align="Center"> Análise de Dados & Engenharia de Produção
+<p align="Center"> Data Analytics & Production Engineering
 <p align="left"> 
-Estudante de Engenharia de Produção com foco em análise de dados aplicada a processos industriais.
+Production Engineering student focused on data analytics applied to industrial processes.
   
 ---
 
 <!-- Estudos -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  
- Processos industriais, melhoria contínua, análise de dados em O&G e indústria de grande porte.
+Industrial processes, continuous improvement, data analytics in O&G and large-scale industry.
+ 
 </div>
 
 ---
@@ -31,13 +31,13 @@ Estudante de Engenharia de Produção com foco em análise de dados aplicada a p
 <!-- Habilidades Técnicas -->
 <div align="center">
 
-| Dados & BI | Desenvolvimento | Ferramentas |
+| Data Analytics | Development | Tools |
 |---|---|---|
 | SQL | JavaScript | Git |
 | Python | TypeScript | GitHub |
-| Análise de Dados | Node.js | |
-| Modelagem Relacional | React | |
-| Power BI & Excel | Integração de APIs | |
+| Data Analysis | Node.js | |
+| Relational Modeling | React | |
+| Power BI & Excel | API Integration | |
 
 </div>
   
