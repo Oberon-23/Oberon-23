@@ -21,7 +21,7 @@ Production Engineering student focused on data analytics.
 
 <!-- Studies -->
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-Industrial processes, continuous improvement, data analytics in O&G and large-scale industry.
+Industrial processes, continuous improvement, data analytics.
  
 </div>
 
