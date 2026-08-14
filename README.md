@@ -15,7 +15,7 @@
 <!-- About me -->
 <p align="Center"> Data Analytics & Production Engineering
 <p align="left"> 
-Production Engineering student focused on data analytics applied to industrial processes.
+Production Engineering student focused on data analytics.
   
 ---
 
